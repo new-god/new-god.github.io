@@ -1,0 +1,71 @@
+#u7386
+{
+	position: relative;
+	background: transparent url("../../images/facebook-facebook.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7387
+{
+	position: relative;
+	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7387:hover
+{
+	background: transparent url("../../images/instagram-instagram%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7387:active
+{
+	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7385
+{
+	position: relative;
+	background: transparent url("../../images/twitter-twitter.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7386:active,#u7385:active
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: contain;
+}
+
+#u8244,#u8212
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8264-4
+{
+	background-color: transparent;
+	line-height: 30px;
+	text-align: center;
+	font-size: 25px;
+	position: relative;
+}
+
+#u8265-4,#u8273-4,#u8275-4
+{
+	background-color: transparent;
+	line-height: 31px;
+	font-size: 26px;
+	position: relative;
+}
+
+#u8272-4,#u8274-4,#u8276-4
+{
+	background-color: transparent;
+	line-height: 30px;
+	font-size: 25px;
+	position: relative;
+}
+
