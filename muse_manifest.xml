@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424366238715">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424366531441">
   <folder name="css">
     <file name="site_global.css" crc="3811554290"/>
     <file name="index.css" crc="181813948" ref="index"/>
@@ -140,5 +140,5 @@
     <file name="tour.html" crc="3981359828" mt="1410400684535" redirect="true"/>
     <file name="contact.html" crc="187476041" mt="1424318388885" redirect="true"/>
   </folder>
-  <file name="index.html" crc="159667629" mt="1424366181549" redirect="true"/>
+  <file name="index.html" crc="3974328862" mt="1424366480687" redirect="true"/>
 </manifest>
