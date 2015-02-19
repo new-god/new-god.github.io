@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #048B9D;
+	color: #000002;
+	background-color: #2EBAE9;
 }
 
 @-ms-viewport
@@ -45,11 +45,9 @@
 	background-color: transparent;
 }
 
-#pu8244
+#page_position_content
 {
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
 }
 
 #u8244
@@ -181,6 +179,29 @@
 	left: 178px;
 }
 
+#u8629-6
+{
+	z-index: 52;
+	display: block;
+	vertical-align: top;
+	margin-left: 78px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u8627
+{
+	z-index: 51;
+	width: 513px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 78px;
+	margin-top: 15px;
+	position: relative;
+}
+
 #u8299
 {
 	z-index: 45;
@@ -190,7 +211,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 79px;
-	margin-top: 9px;
+	margin-top: 41px;
 	position: relative;
 }
 
@@ -203,8 +224,15 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 79px;
-	margin-top: 38px;
+	margin-top: 39px;
 	position: relative;
+}
+
+#pu8264-4
+{
+	width: 0.01px;
+	margin-left: 147px;
+	margin-top: 17px;
 }
 
 #u8264-4
@@ -213,8 +241,7 @@
 	width: 71px;
 	min-height: 53px;
 	margin-right: -10000px;
-	margin-top: 1092px;
-	left: 147px;
+	margin-top: 1px;
 }
 
 #u8265-4
@@ -223,8 +250,8 @@
 	width: 8px;
 	min-height: 53px;
 	margin-right: -10000px;
-	margin-top: 1092px;
-	left: 231px;
+	margin-top: 1px;
+	left: 85px;
 }
 
 #u8272-4
@@ -233,8 +260,8 @@
 	width: 45px;
 	min-height: 53px;
 	margin-right: -10000px;
-	margin-top: 1092px;
-	left: 253px;
+	margin-top: 1px;
+	left: 107px;
 }
 
 #u8273-4
@@ -243,16 +270,7 @@
 	width: 9px;
 	min-height: 53px;
 	margin-right: -10000px;
-	margin-top: 1092px;
-	left: 312px;
-}
-
-#pu8274-4
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 1092px;
-	margin-left: 335px;
+	left: 165px;
 }
 
 #u8274-4
@@ -261,6 +279,8 @@
 	width: 85px;
 	min-height: 53px;
 	margin-right: -10000px;
+	margin-top: 1px;
+	left: 188px;
 }
 
 #u8275-4
@@ -269,7 +289,7 @@
 	width: 9px;
 	min-height: 53px;
 	margin-right: -10000px;
-	left: 81px;
+	left: 269px;
 }
 
 #u8276-4
@@ -278,8 +298,7 @@
 	width: 111px;
 	min-height: 53px;
 	margin-right: -10000px;
-	margin-top: 1092px;
-	left: 439px;
+	left: 292px;
 }
 
 body
@@ -291,6 +310,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1091px;
 }
 

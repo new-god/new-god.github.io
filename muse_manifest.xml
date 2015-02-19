@@ -1,7 +1,7 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424321078885">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424366238715">
   <folder name="css">
-    <file name="site_global.css" crc="348487740"/>
-    <file name="index.css" crc="4054448845" ref="index"/>
+    <file name="site_global.css" crc="3811554290"/>
+    <file name="index.css" crc="181813948" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
@@ -32,6 +32,8 @@
     <file name="cdmobile-cd_2x.png" crc="3966702089" ref="phone>index"/>
     <file name="vinyl2mobile-vinyl.png" crc="250497478" ref="phone>index"/>
     <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>index"/>
+    <file name="u8629-6.png" crc="179954906" ref="phone>index"/>
+    <file name="u8629-6_2x.png" crc="4209518158" ref="phone>index"/>
     <file name="download_on_itunes_badge_us-uk_110x40_1004.png" crc="4185261533" ref="phone>music:index"/>
     <file name="amazonmp3.png" crc="98047229" ref="phone>music:index"/>
     <file name="amazonmp3_2x.png" crc="4273805778" ref="phone>music:index"/>
@@ -42,10 +44,10 @@
     <file name="u8298-4.png" crc="76003496" ref="index"/>
     <file name="u8298-4_2x.png" crc="3762268085" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u435.png" crc="4111275854" ref="index"/>
-    <file name="u435-r.png" crc="4111275854" ref="index"/>
-    <file name="u435_2x.png" crc="3824847174" ref="index"/>
-    <file name="u435-r_2x.png" crc="3824847174" ref="index"/>
+    <file name="u435.png" crc="486850855" ref="index"/>
+    <file name="u435-r.png" crc="3931039869" ref="index"/>
+    <file name="u435_2x.png" crc="3966081891" ref="index"/>
+    <file name="u435-r_2x.png" crc="3784552154" ref="index"/>
     <file name="u443.png" crc="293998136" ref="index"/>
     <file name="u443-r.png" crc="293998136" ref="index"/>
     <file name="u443_2x.png" crc="4087278375" ref="index"/>
@@ -73,6 +75,10 @@
     <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
     <file name="ng1finalgraphic_zps4552ab0f-2.jpg" crc="3917945354" ref="index"/>
     <file name="ng1finalgraphic_zps4552ab0f-2_2x.jpg" crc="3895632766" ref="index"/>
+    <file name="u8617-8.png" crc="4078627983" ref="index"/>
+    <file name="u8617-8_2x.png" crc="433077055" ref="index"/>
+    <file name="exclaim copy.jpg" crc="3764713354" ref="index"/>
+    <file name="exclaim copy_2x.jpg" crc="3856440945" ref="index"/>
     <file name="u7945.png" crc="22684725" ref="index"/>
     <file name="u7945-r.png" crc="3887796708" ref="index"/>
     <file name="u7945-a.png" crc="3887796708" ref="index"/>
@@ -97,6 +103,12 @@
     <file name="u8549_2x.png" crc="3855182306" ref="index"/>
     <file name="u8549-r_2x.png" crc="3923872393" ref="index"/>
     <file name="u8549-a_2x.png" crc="496169201" ref="index"/>
+    <file name="u8616.png" crc="127621287" ref="index"/>
+    <file name="u8616-r.png" crc="3876581753" ref="index"/>
+    <file name="u8616-a.png" crc="3876581753" ref="index"/>
+    <file name="u8616_2x.png" crc="4054013917" ref="index"/>
+    <file name="u8616-r_2x.png" crc="4055508711" ref="index"/>
+    <file name="u8616-a_2x.png" crc="3845967221" ref="index"/>
     <file name="u7528.png" crc="103369897" ref="index"/>
     <file name="u7528-a.png" crc="4263302313" ref="index"/>
     <file name="u7528_2x.png" crc="532673393" ref="index"/>
@@ -117,16 +129,16 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="416004473" ref="phone>music:phone>tour:phone>index:phone>contact"/>
-      <file name="music.css" crc="292833761" ref="phone>music"/>
-      <file name="tour.css" crc="4075604105" ref="phone>tour"/>
-      <file name="index.css" crc="302287773" ref="phone>index"/>
+      <file name="master_a-master.css" crc="374783676" ref="phone>music:phone>contact:phone>index:phone>tour"/>
+      <file name="music.css" crc="270423272" ref="phone>music"/>
       <file name="contact.css" crc="4242895574" ref="phone>contact"/>
+      <file name="index.css" crc="36616937" ref="phone>index"/>
+      <file name="tour.css" crc="4075604105" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="293009661" mt="1424225457314" redirect="true"/>
+    <file name="index.html" crc="56681517" mt="1424366203706" redirect="true"/>
     <file name="music.html" crc="4727168" mt="1410400684535" redirect="true"/>
     <file name="tour.html" crc="3981359828" mt="1410400684535" redirect="true"/>
     <file name="contact.html" crc="187476041" mt="1424318388885" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4275824572" mt="1424321053553" redirect="true"/>
+  <file name="index.html" crc="159667629" mt="1424366181549" redirect="true"/>
 </manifest>

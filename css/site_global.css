@@ -131,7 +131,25 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-.Mobile a:active
+.Dark a:link
+{
+	color: #BC0505;
+	text-decoration: none;
+}
+
+.Dark a:visited
+{
+	color: #9B8FAF;
+	text-decoration: none;
+}
+
+.Dark a:hover
+{
+	color: #80BDC5;
+	text-decoration: underline;
+}
+
+.Mobile a:active,.Dark a:active
 {
 	color: #E8D386;
 	text-decoration: underline;
