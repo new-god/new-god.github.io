@@ -1,7 +1,7 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424320938834">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424321078885">
   <folder name="css">
     <file name="site_global.css" crc="348487740"/>
-    <file name="index.css" crc="3837869293" ref="index"/>
+    <file name="index.css" crc="4054448845" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
@@ -73,8 +73,6 @@
     <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
     <file name="ng1finalgraphic_zps4552ab0f-2.jpg" crc="3917945354" ref="index"/>
     <file name="ng1finalgraphic_zps4552ab0f-2_2x.jpg" crc="3895632766" ref="index"/>
-    <file name="u8607-4.png" crc="347045166" ref="index"/>
-    <file name="u8607-4_2x.png" crc="493749547" ref="index"/>
     <file name="u7945.png" crc="22684725" ref="index"/>
     <file name="u7945-r.png" crc="3887796708" ref="index"/>
     <file name="u7945-a.png" crc="3887796708" ref="index"/>
@@ -99,12 +97,6 @@
     <file name="u8549_2x.png" crc="3855182306" ref="index"/>
     <file name="u8549-r_2x.png" crc="3923872393" ref="index"/>
     <file name="u8549-a_2x.png" crc="496169201" ref="index"/>
-    <file name="u8606.png" crc="4101766991" ref="index"/>
-    <file name="u8606-r.png" crc="512083355" ref="index"/>
-    <file name="u8606-a.png" crc="512083355" ref="index"/>
-    <file name="u8606_2x.png" crc="17878523" ref="index"/>
-    <file name="u8606-r_2x.png" crc="4156799124" ref="index"/>
-    <file name="u8606-a_2x.png" crc="4012632079" ref="index"/>
     <file name="u7528.png" crc="103369897" ref="index"/>
     <file name="u7528-a.png" crc="4263302313" ref="index"/>
     <file name="u7528_2x.png" crc="532673393" ref="index"/>
@@ -136,5 +128,5 @@
     <file name="tour.html" crc="3981359828" mt="1410400684535" redirect="true"/>
     <file name="contact.html" crc="187476041" mt="1424318388885" redirect="true"/>
   </folder>
-  <file name="index.html" crc="36653833" mt="1424320920413" redirect="true"/>
+  <file name="index.html" crc="4275824572" mt="1424321053553" redirect="true"/>
 </manifest>
