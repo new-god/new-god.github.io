@@ -331,6 +331,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.new-god.com/images/u8607-4.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8607-4_2x.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.new-god.com/images/u7945.png</loc>
     <lastmod>2015-02-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -470,6 +482,42 @@
   </url>
   <url>
     <loc>http://www.new-god.com/images/u8549-a_2x.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606-r.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606-a.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606_2x.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606-r_2x.png</loc>
+    <lastmod>2015-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u8606-a_2x.png</loc>
     <lastmod>2015-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
