@@ -1,18 +1,14 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424292462576">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424319272579">
   <folder name="css">
     <file name="site_global.css" crc="348487740"/>
-    <file name="index.css" crc="3938900846" ref="index"/>
+    <file name="index.css" crc="4034526104" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
     <file name="museutils.js" crc="3793461109" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="phone>index:index:phone>contact"/>
     <file name="jquery.watch.js" crc="3766403489" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="webpro.js" crc="4263367560" ref="phone>contact:index"/>
-    <file name="form_check.php" crc="428372696" ref="phone>contact:index"/>
-    <file name="form_throttle.php" crc="419817817" ref="phone>contact:index"/>
-    <file name="form_process.php" crc="3787855599" ref="phone>contact:index"/>
-    <file name="form-u8328.php" crc="4049400967" ref="phone>contact"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
     <file name="museredirect.js" crc="377126291" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="172766474" ref="index"/>
@@ -20,15 +16,14 @@
     <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
     <file name="touchswipe.js" crc="3796284560" ref="index"/>
     <file name="musewpdisclosure.js" crc="513264147" ref="index"/>
-    <file name="form-u3617.php" crc="3776047013" ref="index"/>
   </folder>
   <folder name="images">
     <file name="new god mobile title.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="new god mobile title_2x.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="facebook-facebook.png" crc="460718251" ref="phone>index:index"/>
-    <file name="instagram-instagram.png" crc="401175900" ref="phone>index:index"/>
-    <file name="instagram-instagram copy.png" crc="356738721" ref="phone>index:index"/>
-    <file name="twitter-twitter.png" crc="515036617" ref="phone>index:index"/>
+    <file name="facebook-facebook.png" crc="460718251" ref="phone>index:index:phone>contact"/>
+    <file name="instagram-instagram.png" crc="401175900" ref="phone>index:index:phone>contact"/>
+    <file name="instagram-instagram copy.png" crc="356738721" ref="phone>index:index:phone>contact"/>
+    <file name="twitter-twitter.png" crc="515036617" ref="phone>index:index:phone>contact"/>
     <file name="spotifyicon.png" crc="439506426" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="spotifyicon_2x.png" crc="155441552" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="dl.png" crc="318740657" ref="phone>index"/>
@@ -43,37 +38,29 @@
     <file name="google-play-logo110x39.png" crc="3837911287" ref="phone>music"/>
     <file name="google-play-logo110x39_2x.png" crc="3796698180" ref="phone>music"/>
     <file name="firework.jpg" crc="284297760" ref="phone>music:index"/>
-    <file name="u8344-17.png" crc="465893440" ref="phone>contact"/>
-    <file name="u8344-17-r.png" crc="167046643" ref="phone>contact"/>
-    <file name="u8344-17-m.png" crc="374013035" ref="phone>contact"/>
-    <file name="u8344-17-fs.png" crc="163054134" ref="phone>contact"/>
-    <file name="u8344-17_2x.png" crc="4219969926" ref="phone>contact"/>
-    <file name="u8344-17-r_2x.png" crc="3835988005" ref="phone>contact"/>
-    <file name="u8344-17-m_2x.png" crc="4186200337" ref="phone>contact"/>
-    <file name="u8344-17-fs_2x.png" crc="4097536918" ref="phone>contact"/>
-    <file name="u8298-4.png" crc="3925172119" ref="index"/>
-    <file name="u8298-4_2x.png" crc="4182619596" ref="index"/>
+    <file name="u8298-4.png" crc="76003496" ref="index"/>
+    <file name="u8298-4_2x.png" crc="3762268085" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u435.png" crc="160875369" ref="index"/>
-    <file name="u435-r.png" crc="160875369" ref="index"/>
-    <file name="u435_2x.png" crc="4130503609" ref="index"/>
-    <file name="u435-r_2x.png" crc="4130503609" ref="index"/>
-    <file name="u443.png" crc="509973207" ref="index"/>
-    <file name="u443-r.png" crc="509973207" ref="index"/>
-    <file name="u443_2x.png" crc="19207845" ref="index"/>
-    <file name="u443-r_2x.png" crc="19207845" ref="index"/>
-    <file name="u448.png" crc="4163786377" ref="index"/>
-    <file name="u448-r.png" crc="4163786377" ref="index"/>
-    <file name="u448_2x.png" crc="4280548487" ref="index"/>
-    <file name="u448-r_2x.png" crc="4280548487" ref="index"/>
-    <file name="u6771.png" crc="238834221" ref="index"/>
-    <file name="u6771-r.png" crc="238834221" ref="index"/>
-    <file name="u6771_2x.png" crc="218285053" ref="index"/>
-    <file name="u6771-r_2x.png" crc="218285053" ref="index"/>
-    <file name="u6773.png" crc="15213803" ref="index"/>
-    <file name="u6773-r.png" crc="15213803" ref="index"/>
-    <file name="u6773_2x.png" crc="4123855246" ref="index"/>
-    <file name="u6773-r_2x.png" crc="4123855246" ref="index"/>
+    <file name="u435.png" crc="4111275854" ref="index"/>
+    <file name="u435-r.png" crc="4111275854" ref="index"/>
+    <file name="u435_2x.png" crc="3824847174" ref="index"/>
+    <file name="u435-r_2x.png" crc="3824847174" ref="index"/>
+    <file name="u443.png" crc="293998136" ref="index"/>
+    <file name="u443-r.png" crc="293998136" ref="index"/>
+    <file name="u443_2x.png" crc="4087278375" ref="index"/>
+    <file name="u443-r_2x.png" crc="4087278375" ref="index"/>
+    <file name="u448.png" crc="3803283406" ref="index"/>
+    <file name="u448-r.png" crc="3803283406" ref="index"/>
+    <file name="u448_2x.png" crc="4252839252" ref="index"/>
+    <file name="u448-r_2x.png" crc="4252839252" ref="index"/>
+    <file name="u6771.png" crc="4089166498" ref="index"/>
+    <file name="u6771-r.png" crc="4089166498" ref="index"/>
+    <file name="u6771_2x.png" crc="4033536318" ref="index"/>
+    <file name="u6771-r_2x.png" crc="4033536318" ref="index"/>
+    <file name="u6773.png" crc="3991594512" ref="index"/>
+    <file name="u6773-r.png" crc="3991594512" ref="index"/>
+    <file name="u6773_2x.png" crc="4154872789" ref="index"/>
+    <file name="u6773-r_2x.png" crc="4154872789" ref="index"/>
     <file name="facebook-over.png" crc="3806771338" ref="index"/>
     <file name="twitter-over.png" crc="3968532718" ref="index"/>
     <file name="fireworkheader.png" crc="475764330" ref="index"/>
@@ -82,7 +69,6 @@
     <file name="cd.png" crc="4008343709" ref="index"/>
     <file name="cd-cd.png" crc="457987879" ref="index"/>
     <file name="digital-digital.png" crc="370730085" ref="index"/>
-    <file name="digital-digital2.png" crc="4291828867" ref="index"/>
     <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
     <file name="u7945.png" crc="22684725" ref="index"/>
     <file name="u7945-r.png" crc="3887796708" ref="index"/>
@@ -119,17 +105,15 @@
     <file name="u7731-4.png" crc="463341592" ref="index"/>
     <file name="u7731-4_2x.png" crc="381460890" ref="index"/>
     <file name="silver rings.jpg" crc="4236287564" ref="index"/>
-    <file name="contact_icons-user.png" crc="436985130" ref="index"/>
-    <file name="contact_icons-mail.png" crc="451825303" ref="index"/>
-    <file name="contact_icons-bubble.png" crc="4035353963" ref="index"/>
-    <file name="u3645-17.png" crc="3763499283" ref="index"/>
-    <file name="u3645-17-r.png" crc="404424442" ref="index"/>
-    <file name="u3645-17-m.png" crc="524107394" ref="index"/>
-    <file name="u3645-17-fs.png" crc="3981420983" ref="index"/>
-    <file name="u3645-17_2x.png" crc="3844145925" ref="index"/>
-    <file name="u3645-17-r_2x.png" crc="4130413015" ref="index"/>
-    <file name="u3645-17-m_2x.png" crc="244135538" ref="index"/>
-    <file name="u3645-17-fs_2x.png" crc="479987846" ref="index"/>
+    <file name="favicon.ico" crc="430433247" ref="index"/>
+    <file name="ng1finalgraphic_zps4552ab0f-2.jpg" crc="3917945354" ref="index"/>
+    <file name="ng1finalgraphic_zps4552ab0f-2_2x.jpg" crc="3895632766" ref="index"/>
+    <file name="u8549.png" crc="4122649792" ref="index"/>
+    <file name="u8549-r.png" crc="327776948" ref="index"/>
+    <file name="u8549-a.png" crc="327776948" ref="index"/>
+    <file name="u8549_2x.png" crc="3855182306" ref="index"/>
+    <file name="u8549-r_2x.png" crc="3923872393" ref="index"/>
+    <file name="u8549-a_2x.png" crc="496169201" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -137,12 +121,12 @@
       <file name="music.css" crc="292833761" ref="phone>music"/>
       <file name="tour.css" crc="4075604105" ref="phone>tour"/>
       <file name="index.css" crc="302287773" ref="phone>index"/>
-      <file name="contact.css" crc="4009019976" ref="phone>contact"/>
+      <file name="contact.css" crc="4242895574" ref="phone>contact"/>
     </folder>
     <file name="index.html" crc="293009661" mt="1424225457314" redirect="true"/>
     <file name="music.html" crc="4727168" mt="1410400684535" redirect="true"/>
     <file name="tour.html" crc="3981359828" mt="1410400684535" redirect="true"/>
-    <file name="contact.html" crc="64481579" mt="1410401193098" redirect="true"/>
+    <file name="contact.html" crc="3873283082" mt="1424318388885" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3771817405" mt="1424292325560" redirect="true"/>
+  <file name="index.html" crc="262713572" mt="1424319205542" redirect="true"/>
 </manifest>
