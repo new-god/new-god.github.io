@@ -574,10 +574,107 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.new-god.com/images/u9116-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9116-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9117-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9117-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9118-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9118-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9119-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9119-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9120-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9120-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9121-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9121-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9122-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9122-4_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9138-5.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/u9138-5_2x.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.new-god.com/index.html</loc>
     <lastmod>2015-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.new-god.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.new-god.com/tablet/index.html"/>
   </url>
 </urlset>

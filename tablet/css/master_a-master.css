@@ -1,0 +1,64 @@
+#u9110
+{
+	position: relative;
+	background: transparent url("../../images/facebook-facebook.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9111
+{
+	position: relative;
+	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9111:hover
+{
+	background: transparent url("../../images/instagram-instagram%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9111:active
+{
+	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9109
+{
+	position: relative;
+	background: transparent url("../../images/twitter-twitter.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u9110:active,#u9109:active
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: contain;
+}
+
+#u9114,#u9112
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u9117-4,#u9119-4,#u9121-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u9116-4,#u9118-4,#u9120-4,#u9122-4
+{
+	position: relative;
+}
+
+#u9116-4_img,#u9118-4_img,#u9120-4_img,#u9122-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+

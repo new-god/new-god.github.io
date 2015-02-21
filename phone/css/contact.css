@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EA;
-	background-color: #AA69D8;
+	color: #00000A;
+	background-color: #67F7E6;
 }
 
 @-ms-viewport
@@ -123,7 +123,7 @@
 	background-color: transparent;
 	text-align: center;
 	margin-left: 94px;
-	margin-top: 179px;
+	margin-top: 26px;
 	position: relative;
 }
 
