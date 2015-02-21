@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
-	color: #0000F2;
-	background-color: #C66D77;
+	color: #0000E0;
+	background-color: #DA1C11;
 }
 
 @-ms-viewport
@@ -149,6 +149,7 @@
 	z-index: 32;
 	width: 58px;
 	margin-right: -10000px;
+	margin-top: 1px;
 	left: 245px;
 }
 
@@ -169,7 +170,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 34px;
-	margin-top: 50px;
+	margin-top: 49px;
 	position: relative;
 }
 

@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424562355127">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424562531716">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="333760489" ref="tablet>index"/>
@@ -176,15 +176,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="260724502" ref="phone>music:phone>contact:phone>index:phone>tour"/>
-      <file name="music.css" crc="4219821754" ref="phone>music"/>
-      <file name="contact.css" crc="3941199385" ref="phone>contact"/>
-      <file name="index.css" crc="4097169152" ref="phone>index"/>
-      <file name="tour.css" crc="4073090423" ref="phone>tour"/>
+      <file name="music.css" crc="127288257" ref="phone>music"/>
+      <file name="contact.css" crc="106999945" ref="phone>contact"/>
+      <file name="index.css" crc="4155489040" ref="phone>index"/>
+      <file name="tour.css" crc="3772390417" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="3863715101" mt="1424562348413" redirect="true"/>
-    <file name="music.html" crc="118431368" mt="1424562348413" redirect="true"/>
-    <file name="tour.html" crc="535675522" mt="1424562348413" redirect="true"/>
-    <file name="contact.html" crc="44170164" mt="1424562348413" redirect="true"/>
+    <file name="index.html" crc="3863715101" mt="1424562480436" redirect="true"/>
+    <file name="music.html" crc="118431368" mt="1424562480436" redirect="true"/>
+    <file name="tour.html" crc="535675522" mt="1424562480436" redirect="true"/>
+    <file name="contact.html" crc="44170164" mt="1424562480436" redirect="true"/>
   </folder>
   <file name="index.html" crc="243302346" mt="1424549809584" redirect="true"/>
 </manifest>
