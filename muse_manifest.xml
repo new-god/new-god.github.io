@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424562256874">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424562355127">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="333760489" ref="tablet>index"/>
@@ -181,10 +181,10 @@
       <file name="index.css" crc="4097169152" ref="phone>index"/>
       <file name="tour.css" crc="4073090423" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="163380224" mt="1424562183490" redirect="true"/>
-    <file name="music.html" crc="4252866516" mt="1424562183490" redirect="true"/>
-    <file name="tour.html" crc="4063241687" mt="1424562183490" redirect="true"/>
-    <file name="contact.html" crc="3954262742" mt="1424562183490" redirect="true"/>
+    <file name="index.html" crc="3863715101" mt="1424562348413" redirect="true"/>
+    <file name="music.html" crc="118431368" mt="1424562348413" redirect="true"/>
+    <file name="tour.html" crc="535675522" mt="1424562348413" redirect="true"/>
+    <file name="contact.html" crc="44170164" mt="1424562348413" redirect="true"/>
   </folder>
   <file name="index.html" crc="243302346" mt="1424549809584" redirect="true"/>
 </manifest>
