@@ -44,28 +44,21 @@
 	position: relative;
 }
 
-#u8264-4
+#u8273-4,#u8265-4,#u8275-4
 {
-	background-color: transparent;
-	text-align: center;
-	font-size: 25px;
-	line-height: 30px;
+	display: block;
+	vertical-align: top;
 	position: relative;
 }
 
-#u8265-4,#u8273-4,#u8275-4
+#u8272-4,#u8264-4,#u8274-4,#u8276-4
 {
-	background-color: transparent;
-	font-size: 26px;
-	line-height: 31px;
 	position: relative;
 }
 
-#u8272-4,#u8274-4,#u8276-4
+#u8272-4_img,#u8264-4_img,#u8274-4_img,#u8276-4_img
 {
-	background-color: transparent;
-	font-size: 25px;
-	line-height: 30px;
-	position: relative;
+	display: block;
+	vertical-align: top;
 }
 

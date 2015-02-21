@@ -1,13 +1,25 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424490706555">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424492937600">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="474967272" ref="tablet>index"/>
+      <file name="tour.css" crc="474967272" ref="tablet>tour"/>
+      <file name="music.css" crc="474967272" ref="tablet>music"/>
+      <file name="contact.css" crc="474967272" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="4010595433" mt="1424491656953" redirect="false"/>
+    <file name="tour.html" crc="4126069777" mt="1424491657014" redirect="false"/>
+    <file name="music.html" crc="3916779573" mt="1424491657073" redirect="false"/>
+    <file name="contact.html" crc="25214592" mt="1424491657135" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3811554290"/>
     <file name="index.css" crc="3838402897" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="museutils.js" crc="3793461109" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
+    <file name="museutils.js" crc="3793461109" ref="phone>index:phone>music:phone>tour:phone>contact:index:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="phone>index:phone>music:phone>tour:phone>contact:index:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="museredirect.js" crc="377126291" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="172766474" ref="index"/>
@@ -93,19 +105,33 @@
     <file name="newgodsummertourdates_2x.jpg" crc="135097967" ref="index"/>
     <file name="ksolotour.jpg" crc="407795854" ref="index"/>
     <file name="ksolotour_2x.jpg" crc="486718248" ref="index"/>
+    <file name="u8272-4.png" crc="307158815" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8272-4_2x.png" crc="373609354" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8273-4.png" crc="3809766198" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8273-4_2x.png" crc="3765966890" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8264-4.png" crc="515800377" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8264-4_2x.png" crc="4148113111" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8265-4.png" crc="3809766198" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8265-4_2x.png" crc="3765966890" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8274-4.png" crc="4147112970" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8274-4_2x.png" crc="156144762" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8275-4.png" crc="3809766198" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8275-4_2x.png" crc="3765966890" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8276-4.png" crc="3760510698" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u8276-4_2x.png" crc="3810053701" ref="phone>index:phone>music:phone>tour:phone>contact"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="374783676" ref="phone>music:phone>contact:phone>index:phone>tour"/>
-      <file name="music.css" crc="270423272" ref="phone>music"/>
-      <file name="contact.css" crc="4242895574" ref="phone>contact"/>
-      <file name="index.css" crc="36616937" ref="phone>index"/>
-      <file name="tour.css" crc="4075604105" ref="phone>tour"/>
+      <file name="master_a-master.css" crc="4074344405" ref="phone>music:phone>contact:phone>index:phone>tour"/>
+      <file name="music.css" crc="360853124" ref="phone>music"/>
+      <file name="contact.css" crc="3937036760" ref="phone>contact"/>
+      <file name="index.css" crc="4020914906" ref="phone>index"/>
+      <file name="tour.css" crc="65901938" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="56681517" mt="1424366203706" redirect="true"/>
-    <file name="music.html" crc="4727168" mt="1410400684535" redirect="true"/>
-    <file name="tour.html" crc="3981359828" mt="1410400684535" redirect="true"/>
-    <file name="contact.html" crc="187476041" mt="1424318388885" redirect="true"/>
+    <file name="index.html" crc="374489811" mt="1424492866602" redirect="true"/>
+    <file name="music.html" crc="317397538" mt="1424492866602" redirect="true"/>
+    <file name="tour.html" crc="44620139" mt="1424492866602" redirect="true"/>
+    <file name="contact.html" crc="4135986738" mt="1424492866602" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3936122520" mt="1424490139213" redirect="true"/>
+  <file name="index.html" crc="4182996366" mt="1424491657153" redirect="true"/>
 </manifest>
