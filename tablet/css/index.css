@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #CB1E4F;
+	color: #000013;
+	background-color: #E4C7E9;
 }
 
 @-ms-viewport
@@ -38,88 +38,132 @@
 {
 	z-index: 1;
 	width: 670px;
-	min-height: 959px;
+	min-height: 979px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding: 27px 49px 38px;
+	padding: 7px 49px 38px;
 }
 
-#u9114
-{
-	z-index: 7;
-	width: 670px;
-}
-
-#pu9110
+#pu9304
 {
 	width: 0.01px;
-	margin-left: 117px;
-	margin-top: 5px;
 }
 
-#u9110
+#u9304
 {
-	z-index: 3;
-	width: 72px;
-	height: 72px;
+	z-index: 30;
+	width: 670px;
 	margin-right: -10000px;
+	margin-top: 27px;
 }
 
-#u9111
+#u9314-4
 {
-	z-index: 4;
-	width: 72px;
-	height: 72px;
+	z-index: 40;
+	width: 85px;
 	margin-right: -10000px;
-	left: 116px;
+	margin-top: 1px;
+	left: 138px;
 }
 
-#u9110:active,#u9111:hover
+#u9315-4
 {
-	width: 72px;
-	height: 72px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9109
-{
-	z-index: 2;
-	width: 72px;
-	height: 72px;
+	z-index: 44;
 	margin-right: -10000px;
-	left: 231px;
+	margin-top: 1px;
+	left: 223px;
 }
 
-#u9111:active,#u9109:active
+#u9316-4
 {
-	width: 72px;
-	height: 72px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9112
-{
-	z-index: 5;
-	width: 44px;
+	z-index: 48;
+	width: 73px;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 362px;
+	left: 235px;
+}
+
+#u9317-4
+{
+	z-index: 52;
+	margin-right: -10000px;
+	left: 303px;
+}
+
+#u9318-4
+{
+	z-index: 56;
+	width: 95px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 312px;
+}
+
+#u9319-4
+{
+	z-index: 60;
+	margin-right: -10000px;
+	left: 407px;
+}
+
+#u9320-4
+{
+	z-index: 64;
+	width: 116px;
+	margin-right: -10000px;
+	left: 416px;
+}
+
+#pu9310
+{
+	width: 0.01px;
+	margin-left: 131px;
+	margin-top: 11px;
+}
+
+#u9310
+{
+	z-index: 36;
+	width: 53px;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u9308
+{
+	z-index: 34;
+	width: 58px;
+	margin-right: -10000px;
+	left: 115px;
+}
+
+#u9306
+{
+	z-index: 32;
+	width: 58px;
+	margin-right: -10000px;
+	left: 234px;
+}
+
+#u9312
+{
+	z-index: 38;
+	width: 58px;
+	margin-right: -10000px;
+	left: 354px;
 }
 
 #pu9125-6
 {
 	width: 0.01px;
 	margin-left: 63px;
-	margin-top: 5px;
+	margin-top: 6px;
 }
 
 #u9125-6
 {
-	z-index: 37;
+	z-index: 68;
 	width: 371px;
 	min-height: 109px;
 	background-color: transparent;
@@ -145,7 +189,7 @@
 
 #u9126
 {
-	z-index: 43;
+	z-index: 74;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -156,7 +200,7 @@
 
 #u9130
 {
-	z-index: 46;
+	z-index: 77;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -166,7 +210,7 @@
 
 #u9132
 {
-	z-index: 48;
+	z-index: 79;
 	width: 178px;
 	background-color: transparent;
 	position: relative;
@@ -177,7 +221,7 @@
 
 #u9138-5
 {
-	z-index: 52;
+	z-index: 83;
 	margin-left: 73px;
 	margin-top: 14px;
 	position: relative;
@@ -191,7 +235,7 @@
 
 #u9136
 {
-	z-index: 51;
+	z-index: 82;
 	width: 513px;
 	min-height: 319px;
 	border-style: none;
@@ -204,7 +248,7 @@
 
 #u9128
 {
-	z-index: 45;
+	z-index: 76;
 	width: 513px;
 	min-height: 320px;
 	border-style: none;
@@ -217,14 +261,14 @@
 
 #u9134
 {
-	z-index: 50;
+	z-index: 81;
 	width: 513px;
 	min-height: 320px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 73px;
-	margin-top: 38px;
+	margin-top: 39px;
 	position: relative;
 }
 
@@ -232,12 +276,12 @@
 {
 	width: 0.01px;
 	margin-left: 138px;
-	margin-top: 37px;
+	margin-top: 36px;
 }
 
 #u9116-4
 {
-	z-index: 9;
+	z-index: 2;
 	width: 85px;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -245,7 +289,7 @@
 
 #u9117-4
 {
-	z-index: 13;
+	z-index: 6;
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 85px;
@@ -253,7 +297,7 @@
 
 #u9118-4
 {
-	z-index: 17;
+	z-index: 10;
 	width: 73px;
 	margin-right: -10000px;
 	left: 97px;
@@ -261,14 +305,14 @@
 
 #u9119-4
 {
-	z-index: 21;
+	z-index: 14;
 	margin-right: -10000px;
-	left: 166px;
+	left: 165px;
 }
 
 #u9120-4
 {
-	z-index: 25;
+	z-index: 18;
 	width: 95px;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -277,14 +321,14 @@
 
 #u9121-4
 {
-	z-index: 29;
+	z-index: 22;
 	margin-right: -10000px;
 	left: 269px;
 }
 
 #u9122-4
 {
-	z-index: 33;
+	z-index: 26;
 	width: 116px;
 	margin-right: -10000px;
 	left: 278px;

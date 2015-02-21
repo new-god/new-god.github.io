@@ -1,62 +1,22 @@
-#u9110
-{
-	position: relative;
-	background: transparent url("../../images/facebook-facebook.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u9111
-{
-	position: relative;
-	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u9111:hover
-{
-	background: transparent url("../../images/instagram-instagram%20copy.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u9111:active
-{
-	background: transparent url("../../images/instagram-instagram.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u9109
-{
-	position: relative;
-	background: transparent url("../../images/twitter-twitter.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u9110:active,#u9109:active
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	background-size: contain;
-}
-
-#u9114,#u9112
+#u9304,#u9310,#u9308,#u9306,#u9312
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u9117-4,#u9119-4,#u9121-4
+#u9315-4,#u9317-4,#u9319-4,#u9117-4,#u9119-4,#u9121-4
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
 }
 
-#u9116-4,#u9118-4,#u9120-4,#u9122-4
+#u9314-4,#u9316-4,#u9318-4,#u9320-4,#u9116-4,#u9118-4,#u9120-4,#u9122-4
 {
 	position: relative;
 }
 
-#u9116-4_img,#u9118-4_img,#u9120-4_img,#u9122-4_img
+#u9314-4_img,#u9316-4_img,#u9318-4_img,#u9320-4_img,#u9116-4_img,#u9118-4_img,#u9120-4_img,#u9122-4_img
 {
 	display: block;
 	vertical-align: top;
