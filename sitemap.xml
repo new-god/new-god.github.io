@@ -40,18 +40,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.new-god.com/images/instagram-instagram.png</loc>
-    <lastmod>2015-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.new-god.com/images/instagram-instagram%20copy.png</loc>
-    <lastmod>2015-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.new-god.com/images/twitter-twitter.png</loc>
     <lastmod>2015-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -389,18 +377,6 @@
   </url>
   <url>
     <loc>http://www.new-god.com/images/u7688-4_2x.png</loc>
-    <lastmod>2015-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.new-god.com/images/yellow-k-logo-horiz.jpg</loc>
-    <lastmod>2015-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.new-god.com/images/yellow-k-logo-horiz_2x.jpg</loc>
     <lastmod>2015-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -881,6 +857,42 @@
   </url>
   <url>
     <loc>http://www.new-god.com/images/u9334-4_2x.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/instagram1-u9415-fr.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/instagram1-u9415-fr_2x.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/instagram1-u9415-r-fr.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/instagram1-u9415-r-fr_2x.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/yellow%20k%20logo%20horiz-b-w-trans.png</loc>
+    <lastmod>2015-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.new-god.com/images/yellow%20k%20logo%20horiz-b-w-trans_2x.png</loc>
     <lastmod>2015-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424563950446">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424569324853">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="4181952050" ref="tablet>index"/>
@@ -14,7 +14,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4293484586"/>
-    <file name="index.css" crc="113137131" ref="index"/>
+    <file name="index.css" crc="270862541" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
@@ -31,8 +31,6 @@
     <file name="new god mobile title.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="new god mobile title_2x.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="facebook-facebook.png" crc="460718251" ref="index"/>
-    <file name="instagram-instagram.png" crc="401175900" ref="index"/>
-    <file name="instagram-instagram copy.png" crc="356738721" ref="index"/>
     <file name="twitter-twitter.png" crc="515036617" ref="index"/>
     <file name="dl.png" crc="318740657" ref="phone>index:tablet>index"/>
     <file name="dl_2x.png" crc="445932548" ref="phone>index:tablet>index"/>
@@ -82,16 +80,14 @@
     <file name="digital-digital.png" crc="370730085" ref="index"/>
     <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
     <file name="u7528.png" crc="103369897" ref="index"/>
-    <file name="u7528-a.png" crc="4263302313" ref="index"/>
+    <file name="u7528-a.png" crc="103369897" ref="index"/>
     <file name="u7528_2x.png" crc="532673393" ref="index"/>
-    <file name="u7528-a_2x.png" crc="3839304061" ref="index"/>
+    <file name="u7528-a_2x.png" crc="532673393" ref="index"/>
     <file name="google-play-logo.png" crc="3901090832" ref="index"/>
     <file name="google-play-logo_2x.png" crc="516021424" ref="index"/>
     <file name="webvinyl.png" crc="3971952369" ref="index"/>
-    <file name="u7688-4.png" crc="3936090134" ref="index"/>
-    <file name="u7688-4_2x.png" crc="451868204" ref="index"/>
-    <file name="yellow-k-logo-horiz.jpg" crc="4008926592" ref="index"/>
-    <file name="yellow-k-logo-horiz_2x.jpg" crc="54261489" ref="index"/>
+    <file name="u7688-4.png" crc="3877824651" ref="index"/>
+    <file name="u7688-4_2x.png" crc="260781015" ref="index"/>
     <file name="motorcar.jpg" crc="176670929" ref="index"/>
     <file name="motocar-vinyl.png" crc="3868293407" ref="index"/>
     <file name="motocar-vinyl_2x.png" crc="3994225240" ref="index"/>
@@ -172,6 +168,12 @@
     <file name="u9336-4_2x.png" crc="193397311" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9334-4.png" crc="440805995" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9334-4_2x.png" crc="4248565805" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
+    <file name="instagram1-u9415-fr.png" crc="3765822245" ref="index"/>
+    <file name="instagram1-u9415-fr_2x.png" crc="229203358" ref="index"/>
+    <file name="instagram1-u9415-r-fr.png" crc="4031729520" ref="index"/>
+    <file name="instagram1-u9415-r-fr_2x.png" crc="176411703" ref="index"/>
+    <file name="yellow k logo horiz-b-w-trans.png" crc="11230812" ref="index"/>
+    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="92480627" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -186,5 +188,5 @@
     <file name="tour.html" crc="3802007907" mt="1424563818551" redirect="true"/>
     <file name="contact.html" crc="393185824" mt="1424563818551" redirect="true"/>
   </folder>
-  <file name="index.html" crc="243302346" mt="1424549809584" redirect="true"/>
+  <file name="index.html" crc="438676491" mt="1424569322990" redirect="true"/>
 </manifest>
