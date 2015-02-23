@@ -1,7 +1,7 @@
 .version.music /* version checker */
 {
-	color: #0000E9;
-	background-color: #CEC729;
+	color: #000004;
+	background-color: #9C0C56;
 }
 
 @-ms-viewport
@@ -169,8 +169,8 @@
 	width: 371px;
 	min-height: 74px;
 	background-color: transparent;
-	color: #80BDC5;
 	line-height: 73px;
+	color: #80BDC5;
 	text-align: center;
 	font-size: 61px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;

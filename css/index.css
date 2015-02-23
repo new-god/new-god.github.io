@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #2508CD;
+	color: #0000E3;
+	background-color: #84D383;
 }
 
 .html
@@ -754,8 +754,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 19px;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
 }
 
@@ -1066,7 +1066,7 @@
 	width: 941px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #F8AB98;
 	margin-right: -10000px;
 	position: relative;
 	padding: 19px 25px 270px 19px;
@@ -1188,7 +1188,7 @@
 	width: 952px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #80BDC5;
 	margin-right: -10000px;
 	position: relative;
 	padding: 22px 16px 269px 17px;
@@ -1198,9 +1198,15 @@
 {
 	z-index: 59;
 	width: 304px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
 	background-color: transparent;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
 }
 
 #u7705
@@ -1313,7 +1319,7 @@
 	width: 953px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #E8D386;
 	margin-right: -10000px;
 	position: relative;
 	padding: 15px 17px 10.04999999999859px 15px;
@@ -1368,7 +1374,7 @@
 {
 	width: 0.01px;
 	margin-left: -622px;
-	margin-top: 90px;
+	margin-top: 91px;
 }
 
 #video

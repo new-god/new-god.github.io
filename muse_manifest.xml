@@ -1,20 +1,20 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424569324853">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1424661650201">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="4181952050" ref="tablet>index"/>
       <file name="tour.css" crc="478012238" ref="tablet>tour"/>
-      <file name="music.css" crc="3922642729" ref="tablet>music"/>
+      <file name="music.css" crc="77335638" ref="tablet>music"/>
       <file name="contact.css" crc="177145298" ref="tablet>contact"/>
       <file name="master_a-master.css" crc="141954938" ref="tablet>music:tablet>index:tablet>tour:tablet>contact"/>
     </folder>
-    <file name="index.html" crc="419976245" mt="1424563759976" redirect="true"/>
-    <file name="tour.html" crc="531282991" mt="1424563759976" redirect="true"/>
-    <file name="music.html" crc="4045455245" mt="1424563759976" redirect="true"/>
-    <file name="contact.html" crc="3776499129" mt="1424563759976" redirect="true"/>
+    <file name="index.html" crc="454125694" mt="1424661434307" redirect="true"/>
+    <file name="tour.html" crc="321777455" mt="1424661434307" redirect="true"/>
+    <file name="music.html" crc="334631156" mt="1424661434307" redirect="true"/>
+    <file name="contact.html" crc="180414383" mt="1424661434307" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4293484586"/>
-    <file name="index.css" crc="270862541" ref="index"/>
+    <file name="index.css" crc="3817132931" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
@@ -40,7 +40,7 @@
     <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>index:tablet>index"/>
     <file name="u8629-6.png" crc="179954906" ref="phone>index"/>
     <file name="u8629-6_2x.png" crc="4209518158" ref="phone>index"/>
-    <file name="download_on_itunes_badge_us-uk_110x40_1004.png" crc="4185261533" ref="index:tablet>music"/>
+    <file name="download_on_itunes_badge_us-uk_110x40_1004.png" crc="4185261533" ref="index:tablet>music:phone>music"/>
     <file name="amazonmp3.png" crc="98047229" ref="phone>music:index:tablet>music"/>
     <file name="amazonmp3_2x.png" crc="4273805778" ref="phone>music:index:tablet>music"/>
     <file name="google-play-logo110x39.png" crc="3837911287" ref="phone>music"/>
@@ -88,7 +88,7 @@
     <file name="webvinyl.png" crc="3971952369" ref="index"/>
     <file name="u7688-4.png" crc="3877824651" ref="index"/>
     <file name="u7688-4_2x.png" crc="260781015" ref="index"/>
-    <file name="motorcar.jpg" crc="176670929" ref="index"/>
+    <file name="motorcar.jpg" crc="176670929" ref="index:phone>music"/>
     <file name="motocar-vinyl.png" crc="3868293407" ref="index"/>
     <file name="motocar-vinyl_2x.png" crc="3994225240" ref="index"/>
     <file name="u7731-4.png" crc="463341592" ref="index"/>
@@ -104,8 +104,8 @@
     <file name="u9138-5_2x.png" crc="4286205578" ref="tablet>index"/>
     <file name="facebook.png" crc="4180287198" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="facebook_2x.png" crc="4045323449" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
-    <file name="instagram1.png" crc="3777301635" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
-    <file name="instagram1_2x.png" crc="416538344" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
+    <file name="instagram1.png" crc="3777301635" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="instagram1_2x.png" crc="416538344" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="twitter1small.png" crc="4271928059" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="twitter1small_2x.png" crc="394866412" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="spotify_vector.png" crc="403300732" ref="phone>index:phone>music:phone>tour:phone>contact:tablet>index:tablet>tour:tablet>music:tablet>contact"/>
@@ -122,34 +122,20 @@
     <file name="u9319-4_2x.png" crc="193397311" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9320-4.png" crc="440805995" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9320-4_2x.png" crc="4248565805" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
-    <file name="u9382-4.png" crc="465656411" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9382-4_2x.png" crc="4150524605" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9382-4.png" crc="331917623" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9382-4_2x.png" crc="413735860" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9385-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9385-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9383-4.png" crc="3824103633" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9383-4_2x.png" crc="4162869250" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9383-4.png" crc="4102669437" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9383-4_2x.png" crc="329233967" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9387-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9387-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9384-4.png" crc="3780761920" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9384-4_2x.png" crc="192671261" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9384-4.png" crc="4288169674" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9384-4_2x.png" crc="274612182" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9388-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9388-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9386-4.png" crc="440805995" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9386-4_2x.png" crc="4248565805" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9375-4.png" crc="465656411" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9375-4_2x.png" crc="4150524605" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9378-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9378-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9376-4.png" crc="3824103633" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9376-4_2x.png" crc="4162869250" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9380-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9380-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9377-4.png" crc="3780761920" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9377-4_2x.png" crc="192671261" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9381-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9381-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9379-4.png" crc="440805995" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="u9379-4_2x.png" crc="4248565805" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9386-4.png" crc="4250635330" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9386-4_2x.png" crc="301632758" ref="phone>index:phone>music:phone>tour:phone>contact"/>
     <file name="u9328-4.png" crc="446342487" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9328-4_2x.png" crc="193397311" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u9329-4.png" crc="446342487" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
@@ -174,19 +160,39 @@
     <file name="instagram1-u9415-r-fr_2x.png" crc="176411703" ref="index"/>
     <file name="yellow k logo horiz-b-w-trans.png" crc="11230812" ref="index"/>
     <file name="yellow k logo horiz-b-w-trans_2x.png" crc="92480627" ref="index"/>
+    <file name="u9468-4.png" crc="331917623" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9468-4_2x.png" crc="413735860" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9471-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9471-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9469-4.png" crc="4102669437" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9469-4_2x.png" crc="329233967" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9473-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9473-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9470-4.png" crc="4288169674" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9470-4_2x.png" crc="274612182" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9474-4.png" crc="446342487" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9474-4_2x.png" crc="193397311" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9472-4.png" crc="4250635330" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9472-4_2x.png" crc="301632758" ref="phone>index:phone>music:phone>tour:phone>contact"/>
+    <file name="u9448-4.png" crc="4007177786" ref="phone>music"/>
+    <file name="u9448-4_2x.png" crc="406266767" ref="phone>music"/>
+    <file name="u9460-4.png" crc="41764482" ref="phone>music"/>
+    <file name="u9460-4_2x.png" crc="4020234769" ref="phone>music"/>
+    <file name="instagram12.png" crc="3777301635" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
+    <file name="instagram1_2x2.png" crc="416538344" ref="tablet>index:tablet>tour:tablet>music:tablet>contact"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4292181157" ref="phone>music:phone>contact:phone>index:phone>tour"/>
-      <file name="music.css" crc="103906324" ref="phone>music"/>
-      <file name="contact.css" crc="368813931" ref="phone>contact"/>
-      <file name="index.css" crc="3938508671" ref="phone>index"/>
-      <file name="tour.css" crc="3929415130" ref="phone>tour"/>
+      <file name="master_a-master.css" crc="4095605698" ref="phone>music:phone>contact:phone>index:phone>tour"/>
+      <file name="music.css" crc="3807561246" ref="phone>music"/>
+      <file name="contact.css" crc="4259028636" ref="phone>contact"/>
+      <file name="index.css" crc="264138262" ref="phone>index"/>
+      <file name="tour.css" crc="14988056" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="61430553" mt="1424563818551" redirect="true"/>
-    <file name="music.html" crc="340252427" mt="1424563818551" redirect="true"/>
-    <file name="tour.html" crc="3802007907" mt="1424563818551" redirect="true"/>
-    <file name="contact.html" crc="393185824" mt="1424563818551" redirect="true"/>
+    <file name="index.html" crc="407346160" mt="1424661439612" redirect="true"/>
+    <file name="music.html" crc="3831262658" mt="1424661439612" redirect="true"/>
+    <file name="tour.html" crc="246575370" mt="1424661439612" redirect="true"/>
+    <file name="contact.html" crc="417062487" mt="1424661439612" redirect="true"/>
   </folder>
-  <file name="index.html" crc="438676491" mt="1424569322990" redirect="true"/>
+  <file name="index.html" crc="3859441383" mt="1424661462596" redirect="true"/>
 </manifest>
