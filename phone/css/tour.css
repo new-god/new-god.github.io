@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
-	color: #0000F1;
-	background-color: #1568BA;
+	color: #0000FC;
+	background-color: #2A2016;
 }
 
 @-ms-viewport
@@ -89,13 +89,6 @@
 	margin-right: -10000px;
 }
 
-#u9814:hover
-{
-	width: 670px;
-	min-height: 37px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u9821
 {
 	width: 670px;
@@ -104,26 +97,12 @@
 	margin-right: -10000px;
 }
 
-#u9814.MuseMenuActive,#u9821:hover
-{
-	width: 670px;
-	min-height: 37px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u9826
 {
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 29px;
 	margin-right: -10000px;
-}
-
-#u9821.MuseMenuActive,#u9826:hover
-{
-	width: 670px;
-	min-height: 37px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u9818,#u9825,#u9832
@@ -140,14 +119,7 @@
 	margin-right: -10000px;
 }
 
-#u9826.MuseMenuActive,#u9833:hover
-{
-	width: 670px;
-	min-height: 37px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9833.MuseMenuActive
+#u9814.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
 {
 	width: 670px;
 	min-height: 37px;

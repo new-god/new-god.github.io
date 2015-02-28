@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425157338321">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425157893475">
   <folder name="css">
     <file name="site_global.css" crc="4293484586"/>
     <file name="index.css" crc="4001157472" ref="index"/>
@@ -97,16 +97,16 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="59646849" ref="phone>music:phone>contact:phone>index:phone>tour"/>
-      <file name="music.css" crc="3891839021" ref="phone>music"/>
-      <file name="contact.css" crc="208545459" ref="phone>contact"/>
-      <file name="index.css" crc="67114040" ref="phone>index"/>
-      <file name="tour.css" crc="4044712122" ref="phone>tour"/>
+      <file name="master_a-master.css" crc="3963428511" ref="phone>music:phone>contact:phone>index:phone>tour"/>
+      <file name="music.css" crc="4086317073" ref="phone>music"/>
+      <file name="contact.css" crc="476436634" ref="phone>contact"/>
+      <file name="index.css" crc="187643640" ref="phone>index"/>
+      <file name="tour.css" crc="4230619158" ref="phone>tour"/>
     </folder>
-    <file name="index.html" crc="478332885" mt="1425157332899" redirect="true"/>
-    <file name="music.html" crc="260536947" mt="1425157332899" redirect="true"/>
-    <file name="tour.html" crc="4291528534" mt="1425157332899" redirect="true"/>
-    <file name="contact.html" crc="3870189588" mt="1425157332899" redirect="true"/>
+    <file name="index.html" crc="478332885" mt="1425157882351" redirect="true"/>
+    <file name="music.html" crc="260536947" mt="1425157882351" redirect="true"/>
+    <file name="tour.html" crc="4291528534" mt="1425157882351" redirect="true"/>
+    <file name="contact.html" crc="3870189588" mt="1425157882351" redirect="true"/>
   </folder>
   <file name="index.html" crc="4053097784" mt="1425156781900" redirect="true"/>
 </manifest>
