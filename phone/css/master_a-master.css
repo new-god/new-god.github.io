@@ -1,3 +1,15 @@
+#accordionu9781
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u9782
+{
+	background-color: transparent;
+}
+
 #u9783-4
 {
 	border-style: none;
@@ -24,11 +36,12 @@
 	background-color: #FEFFD9;
 }
 
-#accordionu9781,#menuu9810
+#menuu9810
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	position: relative;
 }
 
 #u9814
@@ -79,9 +92,10 @@
 	background-color: #9B8FAF;
 }
 
-#u9782,#u9811,#u9818,#u9825,#u9832
+#u9811,#u9818,#u9825,#u9832
 {
 	background-color: transparent;
+	position: relative;
 }
 
 #u9833
