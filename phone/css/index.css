@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #257BAE;
+	color: #000004;
+	background-color: #001438;
 }
 
 @-ms-viewport
@@ -39,11 +39,6 @@
 	border-color: transparent;
 	background-color: #FEFFD9;
 	padding-bottom: 0px;
-}
-
-#paccordionu9781
-{
-	width: 0.01px;
 }
 
 #u9782
@@ -178,6 +173,58 @@
 	z-index: 2;
 }
 
+#u9794
+{
+	z-index: 53;
+	width: 670px;
+	background-color: transparent;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#pu10460
+{
+	width: 0.01px;
+	margin-left: 181px;
+	margin-top: -4px;
+}
+
+#u10460
+{
+	z-index: 56;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+}
+
+#u10475
+{
+	z-index: 58;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 124px;
+}
+
+#u10470
+{
+	z-index: 57;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 249px;
+}
+
+#pu7874-6
+{
+	width: 0.01px;
+	margin-top: 11px;
+}
+
 #u7874-6
 {
 	z-index: 38;
@@ -188,7 +235,6 @@
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 267px;
 }
 
 #u7874-2
@@ -211,7 +257,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 361px;
+	margin-top: 94px;
 	left: 435px;
 }
 
@@ -222,7 +268,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 363px;
+	margin-top: 96px;
 	left: 68px;
 }
 
@@ -233,51 +279,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 365px;
+	margin-top: 98px;
 	left: 246px;
-}
-
-#u9794
-{
-	z-index: 53;
-	width: 670px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
-}
-
-#u10460
-{
-	z-index: 56;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 181px;
-}
-
-#u10470
-{
-	z-index: 57;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 430px;
-}
-
-#u10475
-{
-	z-index: 58;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 305px;
 }
 
 #u9919

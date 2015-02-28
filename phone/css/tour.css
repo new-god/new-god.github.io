@@ -1,7 +1,7 @@
 .version.tour /* version checker */
 {
-	color: #000015;
-	background-color: #B2A0C1;
+	color: #0000F1;
+	background-color: #1568BA;
 }
 
 @-ms-viewport
@@ -38,12 +38,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
-}
-
-#paccordionu9781
-{
-	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #u9782
@@ -178,28 +172,21 @@
 	z-index: 2;
 }
 
-#u8301
-{
-	z-index: 38;
-	width: 601px;
-	min-height: 330px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 269px;
-	left: 34px;
-}
-
 #u10494
 {
 	z-index: 39;
 	width: 670px;
 	background-color: transparent;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
+}
+
+#pu10496
+{
+	width: 0.01px;
+	margin-left: 181px;
+	margin-top: -4px;
 }
 
 #u10496
@@ -209,19 +196,6 @@
 	position: relative;
 	width: 53px;
 	margin-right: -10000px;
-	margin-top: 191px;
-	left: 181px;
-}
-
-#u10498
-{
-	z-index: 42;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 430px;
 }
 
 #u10500
@@ -231,8 +205,30 @@
 	position: relative;
 	width: 53px;
 	margin-right: -10000px;
-	margin-top: 191px;
-	left: 305px;
+	left: 124px;
+}
+
+#u10498
+{
+	z-index: 42;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 249px;
+}
+
+#u8301
+{
+	z-index: 38;
+	width: 601px;
+	min-height: 330px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 34px;
+	margin-top: 13px;
+	position: relative;
 }
 
 #u9846-4
@@ -241,8 +237,7 @@
 	width: 670px;
 	min-height: 59px;
 	padding-top: 34px;
-	margin-right: -10000px;
-	margin-top: 600px;
+	margin-top: 1px;
 }
 
 body
@@ -255,6 +250,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -599px;
 }
 

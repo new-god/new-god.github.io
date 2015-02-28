@@ -1,7 +1,7 @@
 .version.music /* version checker */
 {
-	color: #0000FD;
-	background-color: #1C63FB;
+	color: #0000E7;
+	background-color: #F8C02D;
 }
 
 @-ms-viewport
@@ -39,11 +39,6 @@
 	border-color: transparent;
 	background-color: #FEFFD9;
 	padding-bottom: 1px;
-}
-
-#paccordionu9781
-{
-	width: 0.01px;
 }
 
 #u9782
@@ -178,6 +173,52 @@
 	z-index: 2;
 }
 
+#u10480
+{
+	z-index: 64;
+	width: 670px;
+	background-color: transparent;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#pu10482
+{
+	width: 0.01px;
+	margin-left: 180px;
+	margin-top: -4px;
+}
+
+#u10482
+{
+	z-index: 66;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+}
+
+#u10486
+{
+	z-index: 68;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 128px;
+}
+
+#u10484
+{
+	z-index: 67;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 256px;
+}
+
 #u8250-4
 {
 	z-index: 38;
@@ -189,20 +230,15 @@
 	text-align: center;
 	font-size: 61px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	margin-top: 20px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 276px;
 }
 
-#u8260
+#pu10289
 {
-	z-index: 42;
-	width: 300px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 446px;
-	left: 185px;
+	width: 0.01px;
+	margin-left: 187px;
+	margin-top: 23px;
 }
 
 #u10289
@@ -212,19 +248,6 @@
 	position: relative;
 	width: 48px;
 	margin-right: -10000px;
-	margin-top: 361px;
-	left: 187px;
-}
-
-#u10294
-{
-	z-index: 59;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 361px;
-	left: 435px;
 }
 
 #u10307
@@ -234,51 +257,27 @@
 	position: relative;
 	width: 62px;
 	margin-right: -10000px;
-	margin-top: 361px;
-	left: 304px;
+	left: 117px;
 }
 
-#u10480
+#u10294
 {
-	z-index: 64;
-	width: 670px;
+	z-index: 59;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 247px;
+}
+
+#u8260
+{
+	z-index: 42;
+	width: 300px;
 	background-color: transparent;
+	margin-left: 185px;
+	margin-top: 30px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
-}
-
-#u10482
-{
-	z-index: 66;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 180px;
-}
-
-#u10484
-{
-	z-index: 67;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 437px;
-}
-
-#u10486
-{
-	z-index: 68;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 309px;
 }
 
 #u9448-4

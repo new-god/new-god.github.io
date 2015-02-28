@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000018;
-	background-color: #EF7F24;
+	color: #00000C;
+	background-color: #6E26B3;
 }
 
 @-ms-viewport
@@ -38,36 +38,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
-}
-
-#pu8424-6
-{
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
-#u8424-6
-{
-	z-index: 2;
-	width: 482px;
-	min-height: 78px;
-	background-color: transparent;
-	text-align: center;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 291px;
-	left: 94px;
-}
-
-#u8424-4
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u8424-2
-{
-	font-size: 50px;
-	line-height: 60px;
 }
 
 #u9782
@@ -207,9 +177,16 @@
 	z-index: 44;
 	width: 670px;
 	background-color: transparent;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 95px;
+}
+
+#pu10509
+{
+	width: 0.01px;
+	margin-left: 181px;
+	margin-top: -4px;
 }
 
 #u10509
@@ -219,19 +196,6 @@
 	position: relative;
 	width: 53px;
 	margin-right: -10000px;
-	margin-top: 191px;
-	left: 181px;
-}
-
-#u10511
-{
-	z-index: 47;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	margin-top: 191px;
-	left: 430px;
 }
 
 #u10513
@@ -241,8 +205,40 @@
 	position: relative;
 	width: 53px;
 	margin-right: -10000px;
-	margin-top: 191px;
-	left: 305px;
+	left: 124px;
+}
+
+#u10511
+{
+	z-index: 47;
+	overflow: hidden;
+	position: relative;
+	width: 53px;
+	margin-right: -10000px;
+	left: 249px;
+}
+
+#u8424-6
+{
+	z-index: 2;
+	width: 482px;
+	min-height: 78px;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 94px;
+	margin-top: 35px;
+	position: relative;
+}
+
+#u8424-4
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u8424-2
+{
+	font-size: 50px;
+	line-height: 60px;
 }
 
 #u9846-4
@@ -251,8 +247,7 @@
 	width: 670px;
 	min-height: 59px;
 	padding-top: 34px;
-	margin-right: -10000px;
-	margin-top: 523px;
+	margin-top: 154px;
 }
 
 body
@@ -265,6 +260,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -523px;
 }
 
