@@ -1,7 +1,11 @@
+/*
+
+*/
+
 .version.contact /* version checker */
 {
-	color: #00001C;
-	background-color: #65D89A;
+	color: #0000E9;
+	background-color: #1FB81C;
 }
 
 @-ms-viewport
@@ -33,11 +37,17 @@
 {
 	z-index: 1;
 	width: 670px;
-	min-height: 616px;
+	min-height: 615.95px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	width: 0.01px;
 }
 
 #u9782
@@ -48,24 +58,23 @@
 #u9783-4
 {
 	z-index: 10;
-	min-height: 75px;
+	min-height: 121px;
 	padding-left: 25px;
-	padding-top: 13px;
-	padding-bottom: 10px;
+	padding-top: 8px;
 }
 
 #u9783-4.AccordionPanelTabOpen
 {
-	padding-top: 13px;
-	padding-bottom: 10px;
-	min-height: 75px;
+	padding-top: 8px;
+	padding-bottom: 0px;
+	min-height: 121px;
 	margin: 0px;
 }
 
 #u9784
 {
 	z-index: 14;
-	padding-bottom: 73px;
+	padding-bottom: 1px;
 }
 
 #menuu9810
@@ -73,7 +82,6 @@
 	z-index: 15;
 	width: 670px;
 	margin-right: -10000px;
-	margin-top: 25px;
 }
 
 @viewport,#u9811
@@ -149,8 +157,8 @@
 	z-index: 44;
 	width: 670px;
 	background-color: transparent;
-	top: -3px;
-	margin-bottom: -3px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
@@ -216,17 +224,30 @@
 #u9846-4
 {
 	z-index: 40;
-	width: 670px;
-	min-height: 59px;
-	padding-top: 34px;
-	margin-top: 154px;
+	min-height: 42px;
+	padding-top: 20px;
+}
+
+#u9846-4-bw
+{
+	z-index: 40;
+	min-height: 42px;
+	margin-top: 152px;
+}
+
+@font-face
+{
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 
 body
 {
 	position: relative;
 	min-width: 670px;
-	padding-bottom: 35px;
 }
 
 #page .verticalspacer

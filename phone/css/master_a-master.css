@@ -15,21 +15,15 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
-	line-height: 73px;
 	color: #000000;
+	line-height: 121px;
 	text-align: left;
-	font-size: 73px;
-	font-family: Courier New, Courier, monospace;
-	font-weight: bold;
+	font-size: 101px;
+	font-family: '__websocialmenus_5';
+	font-weight: 400;
 }
 
-#u9783-4.AccordionPanelTabOpen p
-{
-	color: #7F7F7F;
-	visibility: inherit;
-}
-
-#u9783-4.AccordionPanelTabOpen,#u9784
+#u9784
 {
 	border-style: none;
 	border-color: transparent;
@@ -99,6 +93,5 @@
 {
 	background-color: transparent;
 	text-align: center;
-	position: relative;
 }
 
