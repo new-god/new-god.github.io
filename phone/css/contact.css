@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #0000E9;
-	background-color: #1FB81C;
+	color: #0000FF;
+	background-color: #1419BB;
 }
 
 @-ms-viewport
@@ -58,7 +58,7 @@
 #u9783-4
 {
 	z-index: 10;
-	min-height: 121px;
+	min-height: 95px;
 	padding-left: 25px;
 	padding-top: 8px;
 }
@@ -67,7 +67,7 @@
 {
 	padding-top: 8px;
 	padding-bottom: 0px;
-	min-height: 121px;
+	min-height: 95px;
 	margin: 0px;
 }
 
@@ -93,7 +93,15 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 28px;
+	padding-bottom: 15px;
+	margin-right: -10000px;
+}
+
+#u10980
+{
+	width: 670px;
+	min-height: 37px;
+	padding-bottom: 15px;
 	margin-right: -10000px;
 }
 
@@ -101,7 +109,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 29px;
+	padding-bottom: 15px;
 	margin-right: -10000px;
 }
 
@@ -109,11 +117,18 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 29px;
+	padding-bottom: 15px;
 	margin-right: -10000px;
 }
 
-#u9818,#u9825,#u9832
+#u9816-4,#u10981-4,#u9822-4,#u9827-4
+{
+	margin-right: -10000px;
+	top: 7px;
+	left: 35px;
+}
+
+#u10979,#u9818,#u9825,#u9832
 {
 	width: 670px;
 	margin-top: 2px;
@@ -123,27 +138,27 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 29px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 }
 
-#u9814.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
+#u9814.MuseMenuActive,#u10980.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
 {
 	width: 670px;
 	min-height: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9816-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
+#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
 {
 	width: 635px;
 	height: 37px;
 }
 
-#u9816-4,#u9822-4,#u9827-4,#u9835-4
+#u9835-4
 {
 	margin-right: -10000px;
-	top: 14px;
+	top: 8px;
 	left: 35px;
 }
 
@@ -154,11 +169,10 @@
 
 #u10507
 {
-	z-index: 44;
+	z-index: 50;
 	width: 670px;
 	background-color: transparent;
-	top: -1px;
-	margin-bottom: -1px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -171,7 +185,7 @@
 
 #u10509
 {
-	z-index: 46;
+	z-index: 52;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -180,7 +194,7 @@
 
 #u10513
 {
-	z-index: 48;
+	z-index: 54;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -190,7 +204,7 @@
 
 #u10511
 {
-	z-index: 47;
+	z-index: 53;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -223,16 +237,16 @@
 
 #u9846-4
 {
-	z-index: 40;
+	z-index: 46;
 	min-height: 42px;
 	padding-top: 20px;
 }
 
 #u9846-4-bw
 {
-	z-index: 40;
+	z-index: 46;
 	min-height: 42px;
-	margin-top: 152px;
+	margin-top: 176px;
 }
 
 @font-face

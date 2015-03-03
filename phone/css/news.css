@@ -2,10 +2,10 @@
 
 */
 
-.version.tour /* version checker */
+.version.news /* version checker */
 {
-	color: #00001E;
-	background-color: #31A57E;
+	color: #00000F;
+	background-color: #2A7941;
 }
 
 @-ms-viewport
@@ -37,11 +37,12 @@
 {
 	z-index: 1;
 	width: 670px;
-	min-height: 616px;
+	min-height: 615.5716213147218px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
+	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -166,62 +167,20 @@
 	z-index: 2;
 }
 
-#u10494
-{
-	z-index: 45;
-	width: 670px;
-	background-color: transparent;
-	margin-top: 1px;
-	position: relative;
-}
-
-#pu10496
-{
-	width: 0.01px;
-	margin-left: 181px;
-	margin-top: -4px;
-}
-
-#u10496
-{
-	z-index: 47;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-}
-
-#u10500
-{
-	z-index: 49;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	left: 124px;
-}
-
-#u10498
-{
-	z-index: 48;
-	overflow: hidden;
-	position: relative;
-	width: 53px;
-	margin-right: -10000px;
-	left: 249px;
-}
-
-#u8301
+#u10989
 {
 	z-index: 44;
-	width: 601px;
-	min-height: 330px;
+	min-height: 1387px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 34px;
-	margin-top: 13px;
-	position: relative;
+}
+
+#u10989-bw
+{
+	z-index: 44;
+	min-height: 1387px;
+	margin-top: 11px;
 }
 
 #u9846-4
@@ -235,7 +194,6 @@
 {
 	z-index: 40;
 	min-height: 42px;
-	margin-top: 1px;
 }
 
 @font-face
