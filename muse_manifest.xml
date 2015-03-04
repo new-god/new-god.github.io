@@ -1,12 +1,12 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1425344089522">
+<manifest alg="2" build="1176" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1425435496461">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
     <file name="websocialmenus.svg" crc="352700788"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3811554290"/>
-    <file name="index.css" crc="4225060674" ref="index"/>
+    <file name="site_global.css" crc="302770814"/>
+    <file name="index.css" crc="3977709987" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news"/>
@@ -19,7 +19,7 @@
     <file name="webpro.js" crc="4263367560" ref="index:phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="musewpdisclosure.js" crc="513264147" ref="index:phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="jquery.musemenu.js" crc="492415246" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:index"/>
   </folder>
   <folder name="images">
     <file name="new god mobile title.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact"/>
@@ -40,10 +40,10 @@
     <file name="cd-cd.png" crc="457987879" ref="index"/>
     <file name="digital-digital.png" crc="370730085" ref="index"/>
     <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
-    <file name="u7528.png" crc="4028057274" ref="index"/>
-    <file name="u7528-a.png" crc="4028057274" ref="index"/>
-    <file name="u7528_2x.png" crc="3780968039" ref="index"/>
-    <file name="u7528-a_2x.png" crc="3780968039" ref="index"/>
+    <file name="u7528.png" crc="3961485888" ref="index"/>
+    <file name="u7528-a.png" crc="3961485888" ref="index"/>
+    <file name="u7528_2x.png" crc="3988701883" ref="index"/>
+    <file name="u7528-a_2x.png" crc="3988701883" ref="index"/>
     <file name="webvinyl.png" crc="3971952369" ref="index"/>
     <file name="motorcar.jpg" crc="176670929" ref="index:phone>music"/>
     <file name="motocar-vinyl.png" crc="3868293407" ref="index"/>
@@ -104,18 +104,18 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3856160206" ref="phone>music:phone>contact:phone>index:phone>tour:phone>news"/>
-      <file name="music.css" crc="4246674850" ref="phone>music"/>
+      <file name="master_a-master.css" crc="497379953" ref="phone>music:phone>contact:phone>index:phone>tour:phone>news"/>
+      <file name="music.css" crc="3999369235" ref="phone>music"/>
       <file name="contact.css" crc="4279507387" ref="phone>contact"/>
       <file name="index.css" crc="3910657438" ref="phone>index"/>
       <file name="tour.css" crc="506570110" ref="phone>tour"/>
       <file name="news.css" crc="254441793" ref="phone>news"/>
     </folder>
-    <file name="index.html" crc="3817679247" mt="1425343957965" redirect="true"/>
-    <file name="music.html" crc="223528966" mt="1425343957966" redirect="true"/>
-    <file name="tour.html" crc="438395780" mt="1425343957966" redirect="true"/>
-    <file name="contact.html" crc="4214556810" mt="1425343957967" redirect="true"/>
-    <file name="news.html" crc="316574307" mt="1425343957977" redirect="true"/>
+    <file name="index.html" crc="3817679247" mt="1425354922541" redirect="true"/>
+    <file name="music.html" crc="223528966" mt="1425354922542" redirect="true"/>
+    <file name="tour.html" crc="438395780" mt="1425354922542" redirect="true"/>
+    <file name="contact.html" crc="4214556810" mt="1425354923249" redirect="true"/>
+    <file name="news.html" crc="316574307" mt="1425435177614" redirect="true"/>
   </folder>
-  <file name="index.html" crc="25788591" mt="1425342630644" redirect="true"/>
+  <file name="index.html" crc="213093986" mt="1425435432377" redirect="true"/>
 </manifest>
