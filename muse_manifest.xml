@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427489613726">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427491538970">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -7,7 +7,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4293484586"/>
     <file name="index.css" crc="3948842118" ref="index"/>
-    <file name="main.css" crc="3891832155" ref="main"/>
+    <file name="main.css" crc="430476378" ref="main"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:phone>home:main"/>
@@ -105,13 +105,13 @@
     <file name="u11419-4.png" crc="4030101049" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="u11419-4_2x.png" crc="4209278841" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="pasted svg 913386x910.svg" crc="4217350342" ref="phone>index:index:main"/>
-    <file name="pasted svg 913386x910_poster_.png" crc="526891514" ref="phone>index:index"/>
+    <file name="pasted svg 913386x910_poster_.png" crc="36180667" ref="phone>index:index"/>
     <file name="pasted svg 425344x497.svg" crc="30251333" ref="phone>index:index:main"/>
-    <file name="pasted svg 425344x497_poster_.png" crc="4225171565" ref="phone>index:index"/>
+    <file name="pasted svg 425344x497_poster_.png" crc="317143058" ref="phone>index:index"/>
     <file name="pasted svg 82396x45.svg" crc="133016308" ref="phone>index:index:main"/>
-    <file name="pasted svg 82396x45_poster_.png" crc="470368534" ref="phone>index:index"/>
+    <file name="pasted svg 82396x45_poster_.png" crc="3919871714" ref="phone>index:index"/>
     <file name="pasted svg 74057x5.svg" crc="4240449782" ref="phone>index:index"/>
-    <file name="pasted svg 74057x5_poster_.png" crc="3944819979" ref="phone>index:index"/>
+    <file name="pasted svg 74057x5_poster_.png" crc="3911240007" ref="phone>index:index"/>
     <file name="pasted svg 132789x14.svg" crc="4069777797" ref="index"/>
     <file name="pasted svg 132789x14_poster_.png" crc="196609052" ref="index"/>
   </folder>
@@ -132,6 +132,6 @@
     <file name="news.html" crc="4289700725" mt="1427465917981" redirect="true"/>
     <file name="home.html" crc="214390367" mt="1427465917981" redirect="true"/>
   </folder>
-  <file name="index.html" crc="37557134" mt="1427485113885" redirect="true"/>
-  <file name="main.html" crc="3880493550" mt="1427489607365" redirect="true"/>
+  <file name="index.html" crc="37557134" mt="1427490952802" redirect="true"/>
+  <file name="main.html" crc="339208970" mt="1427491496678" redirect="true"/>
 </manifest>
