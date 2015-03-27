@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427485131279">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427485239842">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
