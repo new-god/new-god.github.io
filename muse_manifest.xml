@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427485239842">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427489437758">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -105,13 +105,13 @@
     <file name="u11419-4.png" crc="4030101049" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="u11419-4_2x.png" crc="4209278841" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="pasted svg 913386x910.svg" crc="4217350342" ref="phone>index:index:main"/>
-    <file name="pasted svg 913386x910_poster_.png" crc="36180667" ref="phone>index:index"/>
+    <file name="pasted svg 913386x910_poster_.png" crc="526891514" ref="phone>index:index"/>
     <file name="pasted svg 425344x497.svg" crc="30251333" ref="phone>index:index:main"/>
-    <file name="pasted svg 425344x497_poster_.png" crc="317143058" ref="phone>index:index"/>
+    <file name="pasted svg 425344x497_poster_.png" crc="4225171565" ref="phone>index:index"/>
     <file name="pasted svg 82396x45.svg" crc="133016308" ref="phone>index:index:main"/>
-    <file name="pasted svg 82396x45_poster_.png" crc="3919871714" ref="phone>index:index"/>
+    <file name="pasted svg 82396x45_poster_.png" crc="470368534" ref="phone>index:index"/>
     <file name="pasted svg 74057x5.svg" crc="4240449782" ref="phone>index:index"/>
-    <file name="pasted svg 74057x5_poster_.png" crc="3911240007" ref="phone>index:index"/>
+    <file name="pasted svg 74057x5_poster_.png" crc="3944819979" ref="phone>index:index"/>
     <file name="pasted svg 132789x14.svg" crc="4069777797" ref="index"/>
     <file name="pasted svg 132789x14_poster_.png" crc="196609052" ref="index"/>
   </folder>
@@ -120,12 +120,12 @@
       <file name="master_a-master.css" crc="4044858327" ref="phone>music:phone>contact:phone>index:phone>tour:phone>news:phone>home"/>
       <file name="music.css" crc="3853082599" ref="phone>music"/>
       <file name="contact.css" crc="4237357841" ref="phone>contact"/>
-      <file name="index.css" crc="85092872" ref="phone>index"/>
+      <file name="index.css" crc="285787076" ref="phone>index"/>
       <file name="tour.css" crc="405575001" ref="phone>tour"/>
       <file name="news.css" crc="3847684827" ref="phone>news"/>
       <file name="home.css" crc="208723162" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="99924192" mt="1427465917981" redirect="true"/>
+    <file name="index.html" crc="4026757805" mt="1427489414012" redirect="true"/>
     <file name="music.html" crc="523123681" mt="1427465917981" redirect="true"/>
     <file name="tour.html" crc="13767501" mt="1427465917981" redirect="true"/>
     <file name="contact.html" crc="4043169932" mt="1427465917981" redirect="true"/>

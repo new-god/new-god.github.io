@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #126A08;
+	color: #000011;
+	background-color: #08C3C4;
 }
 
 @-ms-viewport
@@ -178,14 +178,18 @@
 #u11427
 {
 	z-index: 50;
+	overflow: hidden;
 	position: relative;
+	width: 549px;
 	margin-right: -10000px;
 }
 
 #u11429
 {
 	z-index: 51;
+	overflow: hidden;
 	position: relative;
+	width: 122px;
 	margin-right: -10000px;
 	margin-top: 338px;
 	left: 214px;
@@ -194,7 +198,9 @@
 #u11431
 {
 	z-index: 52;
+	overflow: hidden;
 	position: relative;
+	width: 125px;
 	margin-right: -10000px;
 	margin-top: 239px;
 	left: 335px;
