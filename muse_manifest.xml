@@ -1,121 +1,139 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1425435570546">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427485033733">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
     <file name="websocialmenus.svg" crc="352700788"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="302770814"/>
-    <file name="index.css" crc="3977709987" ref="index"/>
+    <file name="site_global.css" crc="4293484586"/>
+    <file name="index.css" crc="3948842118" ref="index"/>
+    <file name="new-god---offical-web-page.css" crc="3891832155" ref="new-god---offical-web-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news"/>
-    <file name="museutils.js" crc="3793461109" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news"/>
-    <file name="museredirect.js" crc="377126291" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="172766474" ref="index"/>
-    <file name="webpro.js" crc="4263367560" ref="index:phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="musewpdisclosure.js" crc="513264147" ref="index:phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="jquery.musemenu.js" crc="492415246" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:phone>home:new-god---offical-web-page"/>
+    <file name="museutils.js" crc="479751881" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:phone>home:new-god---offical-web-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="new-god---offical-web-page"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:phone>home:new-god---offical-web-page"/>
+    <file name="museredirect.js" crc="172797823" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="new-god---offical-web-page"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="new-god---offical-web-page"/>
+    <file name="webpro.js" crc="3930024250" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:new-god---offical-web-page"/>
+    <file name="musewpdisclosure.js" crc="102406591" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:new-god---offical-web-page"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:new-god---offical-web-page:index"/>
   </folder>
   <folder name="images">
-    <file name="new god mobile title.png" crc="3989444263" ref="phone>index:phone>music:phone>tour:phone>contact"/>
-    <file name="new god mobile title_2x.png" crc="3989444263" ref="phone>index:phone>music:phone>contact"/>
-    <file name="dl.png" crc="318740657" ref="phone>index"/>
-    <file name="dl_2x.png" crc="445932548" ref="phone>index"/>
-    <file name="cdmobile-cd.png" crc="3966702089" ref="phone>index"/>
-    <file name="cdmobile-cd_2x.png" crc="3966702089" ref="phone>index"/>
-    <file name="vinyl2mobile-vinyl.png" crc="250497478" ref="phone>index"/>
-    <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>index"/>
-    <file name="firework.jpg" crc="284297760" ref="phone>music:index"/>
-    <file name="favicon.ico" crc="430433247" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="fireworkheader.png" crc="475764330" ref="index"/>
-    <file name="vinyl-vinyl.png" crc="80775275" ref="index"/>
-    <file name="vinyl-vinyl2.png" crc="80775275" ref="index"/>
-    <file name="cd.png" crc="4008343709" ref="index"/>
-    <file name="cd-cd.png" crc="457987879" ref="index"/>
-    <file name="digital-digital.png" crc="370730085" ref="index"/>
-    <file name="2014 summr tour.jpg" crc="489339684" ref="index"/>
-    <file name="u7528.png" crc="3961485888" ref="index"/>
-    <file name="u7528-a.png" crc="3961485888" ref="index"/>
-    <file name="u7528_2x.png" crc="3988701883" ref="index"/>
-    <file name="u7528-a_2x.png" crc="3988701883" ref="index"/>
-    <file name="webvinyl.png" crc="3971952369" ref="index"/>
-    <file name="motorcar.jpg" crc="176670929" ref="index:phone>music"/>
-    <file name="motocar-vinyl.png" crc="3868293407" ref="index"/>
-    <file name="motocar-vinyl_2x.png" crc="3994225240" ref="index"/>
-    <file name="silver rings.jpg" crc="4236287564" ref="index"/>
-    <file name="falltour.jpg" crc="81341591" ref="index"/>
-    <file name="falltour_2x.jpg" crc="3785166322" ref="index"/>
-    <file name="newgodsummertourdates.jpg" crc="4268224199" ref="index"/>
-    <file name="newgodsummertourdates_2x.jpg" crc="135097967" ref="index"/>
-    <file name="ksolotour.jpg" crc="407795854" ref="index"/>
-    <file name="ksolotour_2x.jpg" crc="486718248" ref="index"/>
-    <file name="yellow k logo horiz-b-w-trans.png" crc="11230812" ref="index"/>
-    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="92480627" ref="index"/>
+    <file name="new god mobile title.png" crc="3989444263" ref="phone>music:phone>tour:phone>contact:phone>home"/>
+    <file name="new god mobile title_2x.png" crc="3989444263" ref="phone>music:phone>contact:phone>home"/>
+    <file name="dl.png" crc="318740657" ref="phone>home"/>
+    <file name="dl_2x.png" crc="445932548" ref="phone>home"/>
+    <file name="cdmobile-cd.png" crc="3966702089" ref="phone>home"/>
+    <file name="cdmobile-cd_2x.png" crc="3966702089" ref="phone>home"/>
+    <file name="vinyl2mobile-vinyl.png" crc="250497478" ref="phone>home"/>
+    <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>home"/>
+    <file name="firework.jpg" crc="284297760" ref="phone>music:new-god---offical-web-page"/>
+    <file name="favicon.ico" crc="430433247" ref="new-god---offical-web-page"/>
+    <file name="blank.gif" crc="4208392903" ref="new-god---offical-web-page"/>
+    <file name="fireworkheader.png" crc="475764330" ref="new-god---offical-web-page"/>
+    <file name="vinyl-vinyl.png" crc="80775275" ref="new-god---offical-web-page"/>
+    <file name="vinyl-vinyl2.png" crc="80775275" ref="new-god---offical-web-page"/>
+    <file name="cd.png" crc="4008343709" ref="new-god---offical-web-page"/>
+    <file name="cd-cd.png" crc="457987879" ref="new-god---offical-web-page"/>
+    <file name="digital-digital.png" crc="370730085" ref="new-god---offical-web-page"/>
+    <file name="2014 summr tour.jpg" crc="489339684" ref="new-god---offical-web-page"/>
+    <file name="u7528.png" crc="3961485888" ref="new-god---offical-web-page"/>
+    <file name="u7528-a.png" crc="3961485888" ref="new-god---offical-web-page"/>
+    <file name="u7528_2x.png" crc="3988701883" ref="new-god---offical-web-page"/>
+    <file name="u7528-a_2x.png" crc="3988701883" ref="new-god---offical-web-page"/>
+    <file name="webvinyl.png" crc="3971952369" ref="new-god---offical-web-page"/>
+    <file name="motorcar.jpg" crc="176670929" ref="phone>music:new-god---offical-web-page"/>
+    <file name="motocar-vinyl.png" crc="3868293407" ref="new-god---offical-web-page"/>
+    <file name="motocar-vinyl_2x.png" crc="3994225240" ref="new-god---offical-web-page"/>
+    <file name="silver rings.jpg" crc="4236287564" ref="new-god---offical-web-page"/>
+    <file name="falltour.jpg" crc="81341591" ref="new-god---offical-web-page"/>
+    <file name="falltour_2x.jpg" crc="3785166322" ref="new-god---offical-web-page"/>
+    <file name="newgodsummertourdates.jpg" crc="4268224199" ref="new-god---offical-web-page"/>
+    <file name="newgodsummertourdates_2x.jpg" crc="135097967" ref="new-god---offical-web-page"/>
+    <file name="ksolotour.jpg" crc="407795854" ref="new-god---offical-web-page"/>
+    <file name="ksolotour_2x.jpg" crc="486718248" ref="new-god---offical-web-page"/>
+    <file name="yellow k logo horiz-b-w-trans.png" crc="11230812" ref="new-god---offical-web-page"/>
+    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="92480627" ref="new-god---offical-web-page"/>
     <file name="u9448-4.png" crc="314698429" ref="phone>music"/>
     <file name="u9448-4_2x.png" crc="4287552889" ref="phone>music"/>
     <file name="u9460-4.png" crc="4187553963" ref="phone>music"/>
     <file name="u9460-4_2x.png" crc="4131007147" ref="phone>music"/>
-    <file name="u9816-4.png" crc="527199404" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9816-4_2x.png" crc="693870" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9822-4.png" crc="3828021272" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9822-4_2x.png" crc="347353888" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9827-4.png" crc="4027108523" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9827-4_2x.png" crc="227291950" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9835-4.png" crc="22442732" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u9835-4_2x.png" crc="4282318804" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="pasted svg 53x65_poster_.png" crc="4237338661" ref="phone>index:index"/>
-    <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="pasted svg 53x65_poster_2.png" crc="4139104747" ref="phone>index:index"/>
-    <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>index:phone>music:phone>tour:phone>contact:index"/>
-    <file name="pasted svg 53x65_poster_3.png" crc="381935482" ref="phone>index:index"/>
-    <file name="pasted svg 308144x32.svg" crc="274431177" ref="phone>index"/>
-    <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>index"/>
-    <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:index"/>
-    <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music:index"/>
-    <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:index"/>
-    <file name="pasted svg 36797x33_poster_.png" crc="4092671963" ref="phone>music:index"/>
-    <file name="pasted svg 120923x129.svg" crc="516625613" ref="phone>music:index"/>
-    <file name="pasted svg 120923x129_poster_.png" crc="523125551" ref="phone>music:index"/>
-    <file name="pasted svg 260815x53.svg" crc="4167388599" ref="index"/>
-    <file name="pasted svg 260815x53_poster_.png" crc="216850621" ref="index"/>
-    <file name="pasted svg 57148x26.svg" crc="3946371119" ref="index"/>
-    <file name="pasted svg 57148x26_poster_.png" crc="73797423" ref="index"/>
-    <file name="pasted svg 70193x26.svg" crc="4207059362" ref="index"/>
-    <file name="pasted svg 70193x26_poster_.png" crc="33487546" ref="index"/>
-    <file name="pasted svg 64574x26.svg" crc="266480490" ref="index"/>
-    <file name="pasted svg 64574x26_poster_.png" crc="3991272685" ref="index"/>
-    <file name="pasted svg 47805x26.svg" crc="122274435" ref="index"/>
-    <file name="pasted svg 47805x26_poster_.png" crc="4199656327" ref="index"/>
-    <file name="pasted svg 88316x26.svg" crc="4061317304" ref="index"/>
-    <file name="pasted svg 88316x26_poster_.png" crc="257993913" ref="index"/>
-    <file name="pasted svg 554332x26.svg" crc="271711979" ref="index"/>
-    <file name="pasted svg 554332x26_poster_.png" crc="296235548" ref="index"/>
-    <file name="pasted svg 646073x26.svg" crc="123175845" ref="index"/>
-    <file name="pasted svg 646073x26_poster_.png" crc="216131384" ref="index"/>
-    <file name="u10981-4.png" crc="130559907" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
-    <file name="u10981-4_2x.png" crc="70338135" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
+    <file name="u9816-4.png" crc="527199404" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9816-4_2x.png" crc="693870" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9822-4.png" crc="3828021272" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9822-4_2x.png" crc="347353888" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9827-4.png" crc="4027108523" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9827-4_2x.png" crc="227291950" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9835-4.png" crc="22442732" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u9835-4_2x.png" crc="4282318804" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>music:phone>tour:phone>contact:phone>home:new-god---offical-web-page"/>
+    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>home"/>
+    <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>music:phone>tour:phone>contact:phone>home:new-god---offical-web-page"/>
+    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>home"/>
+    <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>music:phone>tour:phone>contact:phone>home:new-god---offical-web-page"/>
+    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>home"/>
+    <file name="pasted svg 308144x32.svg" crc="274431177" ref="phone>home"/>
+    <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>home"/>
+    <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:new-god---offical-web-page"/>
+    <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music"/>
+    <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:new-god---offical-web-page"/>
+    <file name="pasted svg 36797x33_poster_.png" crc="4092671963" ref="phone>music"/>
+    <file name="pasted svg 120923x129.svg" crc="516625613" ref="phone>music:new-god---offical-web-page"/>
+    <file name="pasted svg 120923x129_poster_.png" crc="523125551" ref="phone>music"/>
+    <file name="pasted svg 260815x53.svg" crc="4167388599" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 260815x53_poster_.png" crc="216850621" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 57148x26.svg" crc="3946371119" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 57148x26_poster_.png" crc="73797423" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 70193x26.svg" crc="4207059362" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 70193x26_poster_.png" crc="33487546" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 64574x26.svg" crc="266480490" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 64574x26_poster_.png" crc="3991272685" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 47805x26.svg" crc="122274435" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 47805x26_poster_.png" crc="4199656327" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 88316x26.svg" crc="4061317304" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 88316x26_poster_.png" crc="257993913" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 554332x26.svg" crc="271711979" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 554332x26_poster_.png" crc="296235548" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 646073x26.svg" crc="123175845" ref="new-god---offical-web-page"/>
+    <file name="pasted svg 646073x26_poster_.png" crc="216131384" ref="new-god---offical-web-page"/>
+    <file name="u10981-4.png" crc="130559907" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u10981-4_2x.png" crc="70338135" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
+    <file name="u11419-4.png" crc="4030101049" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
+    <file name="u11419-4_2x.png" crc="4209278841" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
+    <file name="pasted svg 913386x910.svg" crc="4217350342" ref="phone>index:new-god---offical-web-page:index"/>
+    <file name="pasted svg 913386x910_poster_.png" crc="526891514" ref="phone>index"/>
+    <file name="pasted svg 425344x497.svg" crc="30251333" ref="phone>index:new-god---offical-web-page:index"/>
+    <file name="pasted svg 425344x497_poster_.png" crc="4225171565" ref="phone>index"/>
+    <file name="pasted svg 82396x45.svg" crc="133016308" ref="phone>index:new-god---offical-web-page:index"/>
+    <file name="pasted svg 82396x45_poster_.png" crc="352764447" ref="phone>index"/>
+    <file name="pasted svg 74057x5.svg" crc="4240449782" ref="phone>index"/>
+    <file name="pasted svg 74057x5_poster_.png" crc="3944819979" ref="phone>index"/>
+    <file name="pasted svg 132789x14.svg" crc="4069777797" ref="index"/>
+    <file name="pasted svg 132789x14_poster_.png" crc="196609052" ref="index"/>
+    <file name="pasted svg 74057x52.svg" crc="4240449782" ref="index"/>
+    <file name="pasted svg 74057x5_poster_2.png" crc="3911240007" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="497379953" ref="phone>music:phone>contact:phone>index:phone>tour:phone>news"/>
-      <file name="music.css" crc="3999369235" ref="phone>music"/>
-      <file name="contact.css" crc="4279507387" ref="phone>contact"/>
-      <file name="index.css" crc="3910657438" ref="phone>index"/>
-      <file name="tour.css" crc="506570110" ref="phone>tour"/>
-      <file name="news.css" crc="254441793" ref="phone>news"/>
+      <file name="master_a-master.css" crc="4044858327" ref="phone>music:phone>contact:phone>index:phone>tour:phone>news:phone>home"/>
+      <file name="music.css" crc="3853082599" ref="phone>music"/>
+      <file name="contact.css" crc="4237357841" ref="phone>contact"/>
+      <file name="index.css" crc="85092872" ref="phone>index"/>
+      <file name="tour.css" crc="405575001" ref="phone>tour"/>
+      <file name="news.css" crc="3847684827" ref="phone>news"/>
+      <file name="home.css" crc="208723162" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="3817679247" mt="1425354922541" redirect="true"/>
-    <file name="music.html" crc="223528966" mt="1425354922542" redirect="true"/>
-    <file name="tour.html" crc="438395780" mt="1425354922542" redirect="true"/>
-    <file name="contact.html" crc="4214556810" mt="1425354923249" redirect="true"/>
-    <file name="news.html" crc="316574307" mt="1425435177614" redirect="true"/>
+    <file name="index.html" crc="99924192" mt="1427465917981" redirect="true"/>
+    <file name="music.html" crc="523123681" mt="1427465917981" redirect="true"/>
+    <file name="tour.html" crc="13767501" mt="1427465917981" redirect="true"/>
+    <file name="contact.html" crc="4043169932" mt="1427465917981" redirect="true"/>
+    <file name="news.html" crc="4289700725" mt="1427465917981" redirect="true"/>
+    <file name="home.html" crc="214390367" mt="1427465917981" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4230907342" mt="1425435560179" redirect="true"/>
+  <file name="index.html" crc="4090070055" mt="1427484933466" redirect="true"/>
+  <file name="new-god---offical-web-page.html" crc="3851381234" mt="1427484846139" redirect="true"/>
 </manifest>

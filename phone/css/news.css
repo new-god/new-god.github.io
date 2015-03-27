@@ -4,8 +4,8 @@
 
 .version.news /* version checker */
 {
-	color: #00000F;
-	background-color: #2A7941;
+	color: #0000E5;
+	background-color: #5702DB;
 }
 
 @-ms-viewport
@@ -58,16 +58,16 @@
 #u9783-4
 {
 	z-index: 4;
-	min-height: 95px;
+	min-height: 70px;
 	padding-left: 25px;
-	padding-top: 8px;
+	padding-top: 4px;
 }
 
 #u9783-4.AccordionPanelTabOpen
 {
-	padding-top: 8px;
+	padding-top: 4px;
 	padding-bottom: 0px;
-	min-height: 95px;
+	min-height: 70px;
 	margin: 0px;
 }
 
@@ -84,16 +84,24 @@
 	margin-right: -10000px;
 }
 
-@viewport,#u9811
+@viewport,#u11417
 {
 	width: 670px;
+}
+
+#u11418
+{
+	width: 670px;
+	min-height: 37px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
 }
 
 #u9814
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -101,7 +109,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -109,7 +117,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -117,18 +125,11 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
-#u9816-4,#u10981-4,#u9822-4,#u9827-4
-{
-	margin-right: -10000px;
-	top: 7px;
-	left: 35px;
-}
-
-#u10979,#u9818,#u9825,#u9832
+#u9811,#u10979,#u9818,#u9825,#u9832
 {
 	width: 670px;
 	margin-top: 2px;
@@ -138,27 +139,27 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 16px;
+	padding-bottom: 7px;
 	margin-right: -10000px;
 }
 
-#u9814.MuseMenuActive,#u10980.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
+#u11418.MuseMenuActive,#u9814.MuseMenuActive,#u10980.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
 {
 	width: 670px;
 	min-height: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
+#u11419-4_clip,#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
 {
 	width: 635px;
 	height: 37px;
 }
 
-#u9835-4
+#u11419-4,#u9816-4,#u10981-4,#u9822-4,#u9827-4,#u9835-4
 {
 	margin-right: -10000px;
-	top: 8px;
+	top: 3px;
 	left: 35px;
 }
 
@@ -169,7 +170,7 @@
 
 #u10989
 {
-	z-index: 44;
+	z-index: 50;
 	min-height: 1387px;
 	border-style: none;
 	border-color: transparent;
@@ -178,21 +179,21 @@
 
 #u10989-bw
 {
-	z-index: 44;
+	z-index: 50;
 	min-height: 1387px;
 	margin-top: 11px;
 }
 
 #u9846-4
 {
-	z-index: 40;
+	z-index: 46;
 	min-height: 42px;
 	padding-top: 20px;
 }
 
 #u9846-4-bw
 {
-	z-index: 40;
+	z-index: 46;
 	min-height: 42px;
 }
 
