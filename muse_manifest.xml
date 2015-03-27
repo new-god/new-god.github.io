@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427489437758">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427489613726">
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -133,5 +133,5 @@
     <file name="home.html" crc="214390367" mt="1427465917981" redirect="true"/>
   </folder>
   <file name="index.html" crc="37557134" mt="1427485113885" redirect="true"/>
-  <file name="main.html" crc="4246673887" mt="1427485113887" redirect="true"/>
+  <file name="main.html" crc="3880493550" mt="1427489607365" redirect="true"/>
 </manifest>
