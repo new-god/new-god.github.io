@@ -1,4 +1,22 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427491789648">
+<manifest alg="2" build="44" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1427561039255">
+  <folder name="assets">
+    <folder name="magicsoundanimate">
+      <folder name="media">
+        <file name="TMSCO_clip.mp3" crc="475336304" mt="1427560943000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1427560943000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="130071031" mt="1427560943000"/>
+        <file name="Gramaphone.svg" crc="3849902956" mt="1427560943000"/>
+        <file name="Label.svg" crc="321184093" mt="1427560943000"/>
+        <file name="wprds.svg" crc="4177200903" mt="1427560943000"/>
+      </folder>
+      <file name="MagicSoundAnimate_edge.js" crc="3964120907" mt="1427560943000"/>
+      <file name="MagicSoundAnimate.html" crc="4272294668" mt="1427560943000"/>
+    </folder>
+  </folder>
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
     <file name="websocialmenus.eot" crc="335545906"/>
@@ -6,7 +24,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4293484586"/>
-    <file name="index.css" crc="3948842118" ref="index"/>
+    <file name="index.css" crc="250910103" ref="index"/>
     <file name="main.css" crc="430476378" ref="main"/>
   </folder>
   <folder name="scripts">
@@ -104,14 +122,14 @@
     <file name="u10981-4_2x.png" crc="70338135" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="u11419-4.png" crc="4030101049" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="u11419-4_2x.png" crc="4209278841" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
-    <file name="pasted svg 913386x910.svg" crc="4217350342" ref="phone>index:index:main"/>
-    <file name="pasted svg 913386x910_poster_.png" crc="526891514" ref="phone>index:index"/>
-    <file name="pasted svg 425344x497.svg" crc="30251333" ref="phone>index:index:main"/>
-    <file name="pasted svg 425344x497_poster_.png" crc="4225171565" ref="phone>index:index"/>
-    <file name="pasted svg 82396x45.svg" crc="133016308" ref="phone>index:index:main"/>
-    <file name="pasted svg 82396x45_poster_.png" crc="470368534" ref="phone>index:index"/>
+    <file name="pasted svg 913386x910.svg" crc="4217350342" ref="phone>index:main"/>
+    <file name="pasted svg 913386x910_poster_.png" crc="526891514" ref="phone>index"/>
+    <file name="pasted svg 425344x497.svg" crc="30251333" ref="phone>index:main"/>
+    <file name="pasted svg 425344x497_poster_.png" crc="4225171565" ref="phone>index"/>
+    <file name="pasted svg 82396x45.svg" crc="133016308" ref="phone>index:main"/>
+    <file name="pasted svg 82396x45_poster_.png" crc="470368534" ref="phone>index"/>
     <file name="pasted svg 74057x5.svg" crc="4240449782" ref="phone>index:index"/>
-    <file name="pasted svg 74057x5_poster_.png" crc="3944819979" ref="phone>index:index"/>
+    <file name="pasted svg 74057x5_poster_.png" crc="3911240007" ref="phone>index:index"/>
     <file name="pasted svg 132789x14.svg" crc="4069777797" ref="index"/>
     <file name="pasted svg 132789x14_poster_.png" crc="196609052" ref="index"/>
   </folder>
@@ -132,6 +150,6 @@
     <file name="news.html" crc="4289700725" mt="1427465917981" redirect="true"/>
     <file name="home.html" crc="214390367" mt="1427465917981" redirect="true"/>
   </folder>
-  <file name="index.html" crc="37557134" mt="1427490952802" redirect="true"/>
-  <file name="main.html" crc="339208970" mt="1427491496678" redirect="true"/>
+  <file name="index.html" crc="224201815" mt="1427560967279" redirect="true"/>
+  <file name="main.html" crc="339208970" mt="1427560594617" redirect="true"/>
 </manifest>
