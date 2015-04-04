@@ -17,8 +17,8 @@ script.src = custHtmlRoot+"edge_includes/edge.5.0.1.min.js";
 		if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
 			done=true;
 			var opts ={
-    scaleToFit: "none",
-    centerStage: "none",
+    scaleToFit: "both",
+    centerStage: "both",
     minW: "0",
     maxW: "undefined",
     width: "700px",
@@ -26,7 +26,7 @@ script.src = custHtmlRoot+"edge_includes/edge.5.0.1.min.js";
 };
 			opts.htmlRoot =custHtmlRoot;
 			AdobeEdge.loadComposition('MagicSoundAnimate', 'EDGE-533162081', opts,
-			{"dom":{}}, {"dom":{}});		
+			{"dom":{}}, {"style":{"${symbolSelector}":{"isStage":"true","rect":["undefined","undefined","700px","700px"],"fill":["rgba(255,255,255,1)"]}},"dom":{}});		
 			script.onload = script.onreadystatechange = null;
 			head.removeChild(script);
 		}
