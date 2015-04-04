@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428164603969">
+<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428164848139">
   <folder name="assets">
     <folder name="magicsoundanimate">
       <folder name="media">
@@ -145,7 +145,7 @@
       <file name="news.css" crc="3847684827" ref="phone>news"/>
       <file name="home.css" crc="208723162" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="4253045928" mt="1427491757914" redirect="true"/>
+    <file name="index.html" crc="4270768492" mt="1428164817179" redirect="true"/>
     <file name="music.html" crc="3800812992" mt="1427465917981" redirect="true"/>
     <file name="tour.html" crc="110651432" mt="1427465917981" redirect="true"/>
     <file name="contact.html" crc="355558876" mt="1427465917981" redirect="true"/>
