@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428297450974">
+<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428297545393">
   <folder name="assets">
     <folder name="magicsoundanimate">
       <folder name="media">
@@ -38,7 +38,7 @@
     <file name="webpro.js" crc="220831917" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:main"/>
     <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:main"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:main:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home:index"/>
   </folder>
   <folder name="images">
     <file name="new god mobile title.png" crc="3989444263" ref="phone>music:phone>tour:phone>contact:phone>home"/>
@@ -85,11 +85,11 @@
     <file name="u9835-4.png" crc="22442732" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="u9835-4_2x.png" crc="4282318804" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>music:phone>tour:phone>contact:phone>home:main"/>
-    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_.png" crc="4237338661" ref="phone>home:main"/>
     <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>music:phone>tour:phone>contact:phone>home:main"/>
-    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_2.png" crc="4139104747" ref="phone>home:main"/>
     <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>music:phone>tour:phone>contact:phone>home:main"/>
-    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_3.png" crc="381935482" ref="phone>home:main"/>
     <file name="pasted svg 308144x32.svg" crc="274431177" ref="phone>home"/>
     <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>home"/>
     <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music"/>
@@ -155,5 +155,5 @@
     <file name="home.html" crc="4000237064" mt="1428250305119" redirect="true"/>
   </folder>
   <file name="index.html" crc="105364387" mt="1428250307265" redirect="true"/>
-  <file name="main.html" crc="4259211279" mt="1428297407046" redirect="true"/>
+  <file name="main.html" crc="3957028740" mt="1428297539166" redirect="true"/>
 </manifest>
