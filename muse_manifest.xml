@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428164848139">
+<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1428297450974">
   <folder name="assets">
     <folder name="magicsoundanimate">
       <folder name="media">
@@ -23,9 +23,9 @@
     <file name="websocialmenus.svg" crc="352700788"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3811554290"/>
+    <file name="site_global.css" crc="4052671615"/>
     <file name="index.css" crc="291863621" ref="index"/>
-    <file name="main.css" crc="4235385097" ref="main"/>
+    <file name="main.css" crc="629987" ref="main"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:phone>home:main"/>
@@ -49,7 +49,7 @@
     <file name="cdmobile-cd_2x.png" crc="3966702089" ref="phone>home"/>
     <file name="vinyl2mobile-vinyl.png" crc="250497478" ref="phone>home"/>
     <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>home"/>
-    <file name="firework.jpg" crc="284297760" ref="phone>music:main"/>
+    <file name="firework.jpg" crc="284297760" ref="phone>music"/>
     <file name="favicon.ico" crc="430433247" ref="main"/>
     <file name="blank.gif" crc="4208392903" ref="main"/>
     <file name="fireworkheader.png" crc="475764330" ref="main"/>
@@ -63,19 +63,15 @@
     <file name="u7528-a.png" crc="3961485888" ref="main"/>
     <file name="u7528_2x.png" crc="3988701883" ref="main"/>
     <file name="u7528-a_2x.png" crc="3988701883" ref="main"/>
-    <file name="webvinyl.png" crc="3971952369" ref="main"/>
-    <file name="motorcar.jpg" crc="176670929" ref="phone>music:main"/>
-    <file name="motocar-vinyl.png" crc="3868293407" ref="main"/>
-    <file name="motocar-vinyl_2x.png" crc="3994225240" ref="main"/>
-    <file name="silver rings.jpg" crc="4236287564" ref="main"/>
+    <file name="motorcar.jpg" crc="176670929" ref="phone>music"/>
     <file name="falltour.jpg" crc="81341591" ref="main"/>
     <file name="falltour_2x.jpg" crc="3785166322" ref="main"/>
     <file name="newgodsummertourdates.jpg" crc="4268224199" ref="main"/>
     <file name="newgodsummertourdates_2x.jpg" crc="135097967" ref="main"/>
     <file name="ksolotour.jpg" crc="407795854" ref="main"/>
     <file name="ksolotour_2x.jpg" crc="486718248" ref="main"/>
-    <file name="yellow k logo horiz-b-w-trans.png" crc="11230812" ref="main"/>
-    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="92480627" ref="main"/>
+    <file name="yellow k logo horiz-b-w-trans.png" crc="3964958131" ref="main"/>
+    <file name="yellow k logo horiz-b-w-trans_2x.png" crc="524847270" ref="main"/>
     <file name="u9448-4.png" crc="314698429" ref="phone>music"/>
     <file name="u9448-4_2x.png" crc="4287552889" ref="phone>music"/>
     <file name="u9460-4.png" crc="4187553963" ref="phone>music"/>
@@ -96,11 +92,11 @@
     <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>home"/>
     <file name="pasted svg 308144x32.svg" crc="274431177" ref="phone>home"/>
     <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>home"/>
-    <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:main"/>
+    <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music"/>
     <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music"/>
-    <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:main"/>
+    <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music"/>
     <file name="pasted svg 36797x33_poster_.png" crc="4092671963" ref="phone>music"/>
-    <file name="pasted svg 120923x129.svg" crc="516625613" ref="phone>music:main"/>
+    <file name="pasted svg 120923x129.svg" crc="516625613" ref="phone>music"/>
     <file name="pasted svg 120923x129_poster_.png" crc="523125551" ref="phone>music"/>
     <file name="pasted svg 260815x53.svg" crc="4167388599" ref="main"/>
     <file name="pasted svg 260815x53_poster_.png" crc="216850621" ref="main"/>
@@ -114,10 +110,6 @@
     <file name="pasted svg 47805x26_poster_.png" crc="4199656327" ref="main"/>
     <file name="pasted svg 88316x26.svg" crc="4061317304" ref="main"/>
     <file name="pasted svg 88316x26_poster_.png" crc="257993913" ref="main"/>
-    <file name="pasted svg 554332x26.svg" crc="271711979" ref="main"/>
-    <file name="pasted svg 554332x26_poster_.png" crc="296235548" ref="main"/>
-    <file name="pasted svg 646073x26.svg" crc="123175845" ref="main"/>
-    <file name="pasted svg 646073x26_poster_.png" crc="216131384" ref="main"/>
     <file name="u10981-4.png" crc="130559907" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="u10981-4_2x.png" crc="70338135" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="u11419-4.png" crc="4030101049" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
@@ -134,6 +126,16 @@
     <file name="pasted svg 132789x14_poster_.png" crc="196609052" ref="index"/>
     <file name="pasted svg 74057x52.svg" crc="4240449782" ref="index"/>
     <file name="pasted svg 74057x5_poster_2.png" crc="3911240007" ref="index"/>
+    <file name="firework200x201.jpg" crc="4072520090" ref="main"/>
+    <file name="pasted svg 122x40.svg" crc="67031139" ref="main"/>
+    <file name="pasted svg 122x40_poster_.png" crc="3771774224" ref="main"/>
+    <file name="pasted svg 122x402.svg" crc="4281685552" ref="main"/>
+    <file name="pasted svg 122x40_poster_2.png" crc="385342680" ref="main"/>
+    <file name="pasted svg 122x403.svg" crc="264731930" ref="main"/>
+    <file name="pasted svg 122x40_poster_3.png" crc="412289178" ref="main"/>
+    <file name="motorcar201x201.jpg" crc="377503525" ref="main"/>
+    <file name="pasted svg 122x404.svg" crc="67031139" ref="main"/>
+    <file name="pasted svg 122x40_poster_4.png" crc="3771774224" ref="main"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -145,13 +147,13 @@
       <file name="news.css" crc="3847684827" ref="phone>news"/>
       <file name="home.css" crc="208723162" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="4270768492" mt="1428164817179" redirect="true"/>
-    <file name="music.html" crc="3800812992" mt="1427465917981" redirect="true"/>
-    <file name="tour.html" crc="110651432" mt="1427465917981" redirect="true"/>
-    <file name="contact.html" crc="355558876" mt="1427465917981" redirect="true"/>
-    <file name="news.html" crc="176153314" mt="1427465917981" redirect="true"/>
-    <file name="home.html" crc="4000237064" mt="1427465917981" redirect="true"/>
+    <file name="index.html" crc="4270768492" mt="1428250305119" redirect="true"/>
+    <file name="music.html" crc="3800812992" mt="1428250305119" redirect="true"/>
+    <file name="tour.html" crc="110651432" mt="1428250305119" redirect="true"/>
+    <file name="contact.html" crc="355558876" mt="1428250305119" redirect="true"/>
+    <file name="news.html" crc="176153314" mt="1428250305119" redirect="true"/>
+    <file name="home.html" crc="4000237064" mt="1428250305119" redirect="true"/>
   </folder>
-  <file name="index.html" crc="105364387" mt="1428164557384" redirect="true"/>
-  <file name="main.html" crc="109444668" mt="1428164591785" redirect="true"/>
+  <file name="index.html" crc="105364387" mt="1428250307265" redirect="true"/>
+  <file name="main.html" crc="4259211279" mt="1428297407046" redirect="true"/>
 </manifest>

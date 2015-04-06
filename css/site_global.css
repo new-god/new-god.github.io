@@ -83,19 +83,19 @@ body
 
 a:link
 {
-	color: #FFFFFF;
+	color: #383838;
 	text-decoration: none;
 }
 
 a:visited
 {
-	color: #9B8FAF;
+	color: #383838;
 	text-decoration: none;
 }
 
 a:hover
 {
-	color: #80BDC5;
+	color: #FFFFFF;
 	text-decoration: underline;
 }
 
@@ -149,7 +149,25 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-.Mobile a:active,.Dark a:active
+.Desktop a:link
+{
+	color: #383838;
+	text-decoration: none;
+}
+
+.Desktop a:visited
+{
+	color: #383838;
+	text-decoration: none;
+}
+
+.Desktop a:hover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.Mobile a:active,.Dark a:active,.Desktop a:active
 {
 	color: #E8D386;
 	text-decoration: underline;
