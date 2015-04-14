@@ -1,7 +1,7 @@
 .version.main /* version checker */
 {
-	color: #00000D;
-	background-color: #B55B1F;
+	color: #0000E7;
+	background-color: #67A47E;
 }
 
 .html
@@ -400,9 +400,9 @@
 	width: 213px;
 	min-height: 39px;
 	background-color: transparent;
+	line-height: 42px;
 	text-align: center;
 	font-size: 35px;
-	line-height: 42px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 406px;
@@ -718,10 +718,10 @@
 	min-height: 50px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 50px;
 	text-align: center;
 	font-size: 36px;
-	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -822,10 +822,10 @@
 	min-height: 50px;
 	border-color: #999999;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 50px;
 	text-align: center;
 	font-size: 36px;
-	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -914,9 +914,9 @@
 	width: 200px;
 	min-height: 69px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-top: 26px;
@@ -1136,9 +1136,9 @@
 	width: 200px;
 	min-height: 69px;
 	background-color: transparent;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
