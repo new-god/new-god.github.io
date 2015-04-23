@@ -43,12 +43,6 @@
 	position: relative;
 }
 
-#u11778
-{
-	background-color: #F290FF;
-	position: relative;
-}
-
 #u11799
 {
 	background-color: #F8AB98;
@@ -73,7 +67,7 @@
 	position: relative;
 }
 
-#u11777,#u11798,#u11763,#u11770,#u11784,#u11791
+#u11798,#u11763,#u11770,#u11784,#u11791
 {
 	background-color: transparent;
 	position: relative;
@@ -85,18 +79,18 @@
 	position: relative;
 }
 
-#u11779-4,#u11802-4,#u11765-4,#u11774-4,#u11786-4,#u11795-4
+#u11802-4,#u11765-4,#u11774-4,#u11786-4,#u11795-4
 {
 	position: relative;
 }
 
-#u11779-4_clip,#u11802-4_clip,#u11765-4_clip,#u11774-4_clip,#u11786-4_clip,#u11795-4_clip
+#u11802-4_clip,#u11765-4_clip,#u11774-4_clip,#u11786-4_clip,#u11795-4_clip
 {
 	overflow: hidden;
 	vertical-align: top;
 }
 
-#u11779-4_img,#u11802-4_img,#u11765-4_img,#u11774-4_img,#u11786-4_img,#u11795-4_img
+#u11802-4_img,#u11765-4_img,#u11774-4_img,#u11786-4_img,#u11795-4_img
 {
 	display: block;
 }

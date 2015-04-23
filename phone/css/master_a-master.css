@@ -15,10 +15,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FEFFD9;
-	color: #000000;
+	line-height: 66px;
 	text-align: left;
 	font-size: 55px;
-	line-height: 66px;
+	color: #000000;
 	font-family: '__websocialmenus_5';
 	font-weight: 400;
 }
@@ -40,12 +40,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
-}
-
-#u11418
-{
-	background-color: #F290FF;
 	position: relative;
 }
 
@@ -73,7 +67,7 @@
 	position: relative;
 }
 
-#u11417,#u9811,#u10979,#u9818,#u9825,#u9832
+#u9811,#u10979,#u9818,#u9825,#u9832
 {
 	background-color: transparent;
 	position: relative;
@@ -85,18 +79,18 @@
 	position: relative;
 }
 
-#u11419-4,#u9816-4,#u10981-4,#u9822-4,#u9827-4,#u9835-4
+#u9816-4,#u10981-4,#u9822-4,#u9827-4,#u9835-4
 {
 	position: relative;
 }
 
-#u11419-4_clip,#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
+#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
 {
 	overflow: hidden;
 	vertical-align: top;
 }
 
-#u11419-4_img,#u9816-4_img,#u10981-4_img,#u9822-4_img,#u9827-4_img,#u9835-4_img
+#u9816-4_img,#u10981-4_img,#u9822-4_img,#u9827-4_img,#u9835-4_img
 {
 	display: block;
 }
