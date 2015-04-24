@@ -1,17 +1,17 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1429901477485">
+<manifest alg="2" build="11" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1429902086554">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="516860663" ref="tablet>contact:tablet>index:tablet>music:tablet>news:tablet>tour"/>
       <file name="contact.css" crc="96541573" ref="tablet>contact"/>
       <file name="index.css" crc="3956019873" ref="tablet>index"/>
-      <file name="music.css" crc="141697064" ref="tablet>music"/>
+      <file name="music.css" crc="4138936501" ref="tablet>music"/>
       <file name="news.css" crc="155134971" ref="tablet>news"/>
       <file name="tour.css" crc="4286101549" ref="tablet>tour"/>
     </folder>
-    <file name="index.html" crc="4151145524" mt="1429755150433" redirect="true"/>
+    <file name="index.html" crc="521856532" mt="1429902011383" redirect="true"/>
     <file name="news.html" crc="4130536806" mt="1429755139072" redirect="true"/>
-    <file name="tour.html" crc="4102736322" mt="1429755139072" redirect="true"/>
-    <file name="music.html" crc="413492836" mt="1429755139072" redirect="true"/>
+    <file name="tour.html" crc="332673310" mt="1429901918145" redirect="true"/>
+    <file name="music.html" crc="3943645533" mt="1429901954303" redirect="true"/>
     <file name="contact.html" crc="3772788987" mt="1429755139072" redirect="true"/>
   </folder>
   <folder name="fonts">
@@ -34,7 +34,7 @@
     <file name="webpro.js" crc="220831917" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:index"/>
     <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:index"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact"/>
   </folder>
   <folder name="images">
     <file name="new god mobile title.png" crc="3989444263" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>index:tablet>index"/>
@@ -81,19 +81,19 @@
     <file name="u9835-4.png" crc="22442732" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="u9835-4_2x.png" crc="4282318804" ref="phone>index:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>index:tablet>index:index"/>
-    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_.png" crc="4237338661" ref="phone>index:tablet>index:index"/>
     <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>index:tablet>index:index"/>
-    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_2.png" crc="4139104747" ref="phone>index:tablet>index:index"/>
     <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>index:tablet>index:index"/>
-    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_3.png" crc="381935482" ref="phone>index:tablet>index:index"/>
     <file name="pasted svg 308144x32.svg" crc="274431177" ref="phone>index:tablet>index"/>
-    <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>index"/>
+    <file name="pasted svg 308144x32_poster_.png" crc="126284935" ref="phone>index:tablet>index"/>
     <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:tablet>music"/>
-    <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music"/>
+    <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music:tablet>music"/>
     <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:tablet>music"/>
-    <file name="pasted svg 36797x33_poster_.png" crc="4092671963" ref="phone>music"/>
+    <file name="pasted svg 36797x33_poster_.png" crc="4092671963" ref="phone>music:tablet>music"/>
     <file name="pasted svg 120923x129.svg" crc="516625613" ref="phone>music:tablet>music"/>
-    <file name="pasted svg 120923x129_poster_.png" crc="523125551" ref="phone>music"/>
+    <file name="pasted svg 120923x129_poster_.png" crc="523125551" ref="phone>music:tablet>music"/>
     <file name="pasted svg 260815x53.svg" crc="4167388599" ref="index"/>
     <file name="pasted svg 260815x53_poster_.png" crc="216850621" ref="index"/>
     <file name="pasted svg 57148x26.svg" crc="3946371119" ref="index"/>
@@ -148,5 +148,5 @@
     <file name="contact.html" crc="500984300" mt="1429755150432" redirect="true"/>
     <file name="news.html" crc="475766474" mt="1429755150432" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4188704976" mt="1429900608502" redirect="true"/>
+  <file name="index.html" crc="3897756802" mt="1429902077007" redirect="true"/>
 </manifest>
