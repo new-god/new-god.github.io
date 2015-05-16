@@ -4,8 +4,8 @@
 
 .version.music /* version checker */
 {
-	color: #0000FB;
-	background-color: #0BD8FA;
+	color: #00001F;
+	background-color: #5323E2;
 }
 
 @-ms-viewport
@@ -217,10 +217,10 @@
 	width: 670px;
 	min-height: 62px;
 	background-color: transparent;
-	color: #80BDC5;
 	line-height: 61px;
 	text-align: center;
 	font-size: 61px;
+	color: #80BDC5;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-top: 20px;
 	position: relative;
@@ -285,10 +285,10 @@
 	width: 670px;
 	min-height: 61px;
 	background-color: transparent;
-	color: #FF0000;
 	line-height: 60px;
 	text-align: center;
 	font-size: 50px;
+	color: #FF0000;
 	font-family: Courier New, Courier, monospace;
 	margin-top: 41px;
 	position: relative;
