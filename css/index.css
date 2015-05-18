@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000F;
-	background-color: #EED64E;
+	color: #00001F;
+	background-color: #6EB7FD;
 }
 
 .html
@@ -487,7 +487,6 @@
 	background-color: transparent;
 	padding-bottom: 1px;
 	left: -1px;
-	margin-top: 1px;
 	position: relative;
 }
 
@@ -1179,13 +1178,6 @@
 	cursor: pointer;
 }
 
-#pu8644
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 441px;
-}
-
 #u8644
 {
 	z-index: 109;
@@ -1287,7 +1279,7 @@
 	left: 501px;
 }
 
-#pu11020
+#pu8644,#pu11020
 {
 	width: 0.01px;
 	margin-left: -100px;
