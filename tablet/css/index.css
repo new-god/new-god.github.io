@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #F658DA;
+	color: #00001D;
+	background-color: #8663E5;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 640px;
-	min-height: 673px;
+	min-height: 703.4999464106779px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #D91F1F;
-	padding: 17px 64px 35px;
+	padding: 17px 64px 4.5000535893220786px;
 }
 
 #u12143
@@ -79,12 +79,25 @@
 	position: relative;
 }
 
+#u12220
+{
+	z-index: 8;
+	width: 600px;
+	min-height: 170px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 8px;
+	position: relative;
+}
+
 #u12149
 {
 	z-index: 7;
 	overflow: hidden;
 	margin-left: 150px;
-	margin-top: 49px;
+	margin-top: 7px;
 	position: relative;
 }
 
