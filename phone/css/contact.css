@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #00001E;
-	background-color: #AF5414;
+	color: #0000F0;
+	background-color: #8C6C95;
 }
 
 @-ms-viewport
@@ -84,16 +84,24 @@
 	margin-right: -10000px;
 }
 
-@viewport,#u9811
+@viewport,#u12175
 {
 	width: 670px;
+}
+
+#u12176
+{
+	width: 670px;
+	min-height: 37px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
 }
 
 #u9814
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -101,7 +109,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -109,7 +117,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -117,18 +125,11 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
-#u9816-4,#u10981-4,#u9822-4,#u9827-4
-{
-	margin-right: -10000px;
-	top: 7px;
-	left: 35px;
-}
-
-#u10979,#u9818,#u9825,#u9832
+#u9811,#u10979,#u9818,#u9825,#u9832
 {
 	width: 670px;
 	margin-top: 2px;
@@ -138,27 +139,27 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 16px;
+	padding-bottom: 7px;
 	margin-right: -10000px;
 }
 
-#u9814.MuseMenuActive,#u10980.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
+#u12176.MuseMenuActive,#u9814.MuseMenuActive,#u10980.MuseMenuActive,#u9821.MuseMenuActive,#u9826.MuseMenuActive,#u9833.MuseMenuActive
 {
 	width: 670px;
 	min-height: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
+#u12179-4_clip,#u9816-4_clip,#u10981-4_clip,#u9822-4_clip,#u9827-4_clip,#u9835-4_clip
 {
 	width: 635px;
 	height: 37px;
 }
 
-#u9835-4
+#u12179-4,#u9816-4,#u10981-4,#u9822-4,#u9827-4,#u9835-4
 {
 	margin-right: -10000px;
-	top: 8px;
+	top: 3px;
 	left: 35px;
 }
 
@@ -169,7 +170,7 @@
 
 #u10507
 {
-	z-index: 50;
+	z-index: 56;
 	width: 670px;
 	background-color: transparent;
 	margin-top: 1px;
@@ -185,7 +186,7 @@
 
 #u10509
 {
-	z-index: 52;
+	z-index: 58;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -194,7 +195,7 @@
 
 #u10513
 {
-	z-index: 54;
+	z-index: 60;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -204,7 +205,7 @@
 
 #u10511
 {
-	z-index: 53;
+	z-index: 59;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -237,14 +238,14 @@
 
 #u9846-4
 {
-	z-index: 46;
+	z-index: 52;
 	min-height: 42px;
 	padding-top: 20px;
 }
 
 #u9846-4-bw
 {
-	z-index: 46;
+	z-index: 52;
 	min-height: 42px;
 	margin-top: 205px;
 }

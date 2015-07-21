@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.main /* version checker */
 {
-	color: #00001F;
-	background-color: #6EB7FD;
+	color: #0000F0;
+	background-color: #CABDF3;
 }
 
 .html
@@ -620,10 +620,10 @@
 	min-height: 50px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 50px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 36px;
-	color: #FFFFFF;
+	line-height: 50px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -712,10 +712,10 @@
 	min-height: 50px;
 	border-color: #999999;
 	background-color: transparent;
-	line-height: 50px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 36px;
-	color: #FFFFFF;
+	line-height: 50px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -804,9 +804,9 @@
 	width: 200px;
 	min-height: 69px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	margin-top: 26px;
@@ -1052,9 +1052,9 @@
 	width: 200px;
 	min-height: 69px;
 	background-color: transparent;
-	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 300;
 	position: relative;

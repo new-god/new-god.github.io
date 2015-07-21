@@ -4,8 +4,8 @@
 
 .version.contact /* version checker */
 {
-	color: #000005;
-	background-color: #C11B85;
+	color: #00000E;
+	background-color: #E1ABB8;
 }
 
 @-ms-viewport
@@ -83,16 +83,24 @@
 	margin-right: -10000px;
 }
 
-#u11798
+#u12120
 {
 	width: 670px;
+}
+
+#u12123
+{
+	width: 670px;
+	min-height: 37px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
 }
 
 #u11799
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -100,7 +108,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -108,7 +116,7 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
@@ -116,18 +124,11 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 15px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
-#u11802-4,#u11765-4,#u11774-4,#u11786-4
-{
-	margin-right: -10000px;
-	top: 7px;
-	left: 35px;
-}
-
-#u11763,#u11770,#u11784,#u11791
+#u11798,#u11763,#u11770,#u11784,#u11791
 {
 	width: 670px;
 	margin-top: 2px;
@@ -137,27 +138,27 @@
 {
 	width: 670px;
 	min-height: 37px;
-	padding-bottom: 16px;
+	padding-bottom: 7px;
 	margin-right: -10000px;
 }
 
-#u11799.MuseMenuActive,#u11764.MuseMenuActive,#u11771.MuseMenuActive,#u11785.MuseMenuActive,#u11792.MuseMenuActive
+#u12123.MuseMenuActive,#u11799.MuseMenuActive,#u11764.MuseMenuActive,#u11771.MuseMenuActive,#u11785.MuseMenuActive,#u11792.MuseMenuActive
 {
 	width: 670px;
 	min-height: 37px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u11802-4_clip,#u11765-4_clip,#u11774-4_clip,#u11786-4_clip,#u11795-4_clip
+#u12126-4_clip,#u11802-4_clip,#u11765-4_clip,#u11774-4_clip,#u11786-4_clip,#u11795-4_clip
 {
 	width: 635px;
 	height: 37px;
 }
 
-#u11795-4
+#u12126-4,#u11802-4,#u11765-4,#u11774-4,#u11786-4,#u11795-4
 {
 	margin-right: -10000px;
-	top: 8px;
+	top: 3px;
 	left: 35px;
 }
 
@@ -168,7 +169,7 @@
 
 #u11973
 {
-	z-index: 50;
+	z-index: 56;
 	width: 670px;
 	background-color: transparent;
 	margin-left: 49px;
@@ -186,7 +187,7 @@
 
 #u11975
 {
-	z-index: 52;
+	z-index: 58;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -195,7 +196,7 @@
 
 #u11979
 {
-	z-index: 54;
+	z-index: 60;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -205,7 +206,7 @@
 
 #u11977
 {
-	z-index: 53;
+	z-index: 59;
 	overflow: hidden;
 	position: relative;
 	width: 53px;
@@ -238,14 +239,14 @@
 
 #u11805-4
 {
-	z-index: 46;
+	z-index: 52;
 	min-height: 42px;
 	padding-top: 20px;
 }
 
 #u11805-4-bw
 {
-	z-index: 46;
+	z-index: 52;
 	min-height: 42px;
 	margin-top: 700px;
 }
