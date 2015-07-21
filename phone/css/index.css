@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E1;
-	background-color: #50C7F4;
+	color: #000010;
+	background-color: #2C9EB0;
 }
 
 @-ms-viewport
@@ -83,7 +83,7 @@
 {
 	z-index: 7;
 	overflow: hidden;
-	margin-left: 65px;
+	margin-left: 52px;
 	margin-top: 23px;
 	position: relative;
 }
