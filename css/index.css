@@ -1,0 +1,81 @@
+.version.index /* version checker */
+{
+	color: #0000E3;
+	background-color: #A70383;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 640px;
+	min-height: 679px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #D91F1F;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 14px 30px 5px;
+}
+
+#u12079
+{
+	z-index: 4;
+	overflow: hidden;
+	margin-left: 134px;
+	position: relative;
+}
+
+#u12073
+{
+	z-index: 2;
+	width: 457px;
+	background-color: transparent;
+	margin-left: 91px;
+	position: relative;
+}
+
+#u12089
+{
+	z-index: 5;
+	overflow: hidden;
+	position: relative;
+}
+
+#u12094
+{
+	z-index: 6;
+	overflow: hidden;
+	margin-left: 90px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u12099
+{
+	z-index: 7;
+	overflow: hidden;
+	margin-left: 150px;
+	margin-top: 55px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 702px;
+	padding-top: 35px;
+	padding-bottom: 101px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

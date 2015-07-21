@@ -1,0 +1,101 @@
+.version.index /* version checker */
+{
+	color: #0000E1;
+	background-color: #50C7F4;
+}
+
+@-ms-viewport
+{
+	width: 300px;
+}
+
+@-webkit-viewport
+{
+	width: 300px;
+}
+
+@-o-viewport
+{
+	width: 300px;
+}
+
+@-moz-viewport
+{
+	width: 300px;
+}
+
+@viewport
+{
+	width: 300px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 276px;
+	min-height: 294.5792544408483px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #D91F1F;
+	padding: 28px 12px 46.420745559151726px;
+}
+
+#u12198
+{
+	z-index: 4;
+	overflow: hidden;
+	margin-left: 58px;
+	position: relative;
+}
+
+#u12196
+{
+	z-index: 2;
+	width: 197px;
+	background-color: transparent;
+	margin-left: 39px;
+	position: relative;
+}
+
+#u12200
+{
+	z-index: 5;
+	overflow: hidden;
+	position: relative;
+}
+
+#u12202
+{
+	z-index: 6;
+	overflow: hidden;
+	margin-left: 39px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u12204
+{
+	z-index: 7;
+	overflow: hidden;
+	margin-left: 65px;
+	margin-top: 23px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 300px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
