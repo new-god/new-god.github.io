@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1437513283639" domain="www.new-god.com">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1437883594930" domain="www.new-god.com">
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="129777788" ref="tablet>contact:tablet>music:tablet>news:tablet>tour:tablet>home"/>
+      <file name="master_a-master.css" crc="4155744548" ref="tablet>contact:tablet>music:tablet>news:tablet>tour:tablet>home"/>
       <file name="contact.css" crc="249670584" ref="tablet>contact"/>
       <file name="index.css" crc="495346661" ref="tablet>index"/>
-      <file name="music.css" crc="3910121238" ref="tablet>music"/>
+      <file name="music.css" crc="3826931836" ref="tablet>music"/>
       <file name="news.css" crc="4290505933" ref="tablet>news"/>
       <file name="tour.css" crc="4234167471" ref="tablet>tour"/>
       <file name="home.css" crc="3965297937" ref="tablet>home"/>
     </folder>
-    <file name="index.html" crc="4180302304" mt="1437513187690" redirect="true" seo="true"/>
-    <file name="news.html" crc="81394220" mt="1437510171152" redirect="true" seo="true"/>
-    <file name="tour.html" crc="353531027" mt="1437510171152" redirect="true" seo="true"/>
-    <file name="music.html" crc="4177065282" mt="1437510171152" redirect="true" seo="true"/>
-    <file name="contact.html" crc="508619237" mt="1437510171152" redirect="true" seo="true"/>
-    <file name="home.html" crc="3828849113" seo="true" mt="1437510350350" redirect="true"/>
+    <file name="index.html" crc="4166682014" mt="1437513187690" redirect="true" seo="true"/>
+    <file name="news.html" crc="265126984" mt="1437510171152" redirect="true" seo="true"/>
+    <file name="tour.html" crc="3766057691" mt="1437510171152" redirect="true" seo="true"/>
+    <file name="music.html" crc="3793506914" mt="1437510171152" redirect="true" seo="true"/>
+    <file name="contact.html" crc="468174020" mt="1437510171152" redirect="true" seo="true"/>
+    <file name="home.html" crc="4082588934" seo="true" mt="1437510350350" redirect="true"/>
   </folder>
   <folder name="fonts">
     <file name="websocialmenus.woff" crc="108244378"/>
@@ -24,20 +24,20 @@
   <folder name="css">
     <file name="site_global.css" crc="3937198647"/>
     <file name="index.css" crc="3848466684" ref="index"/>
-    <file name="main.css" crc="4039818739" ref="main"/>
+    <file name="main.css" crc="397773250" ref="main"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="main"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="museredirect.js" crc="40941066" ref="index:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:tablet>home"/>
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="museutils.js" crc="334180058" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="main"/>
+    <file name="jquery.watch.js" crc="293013060" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="museredirect.js" crc="390470276" ref="index:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:tablet>home"/>
     <file name="pie.js" crc="3827607177" ref="main"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="main"/>
-    <file name="webpro.js" crc="3803554875" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="jquery.scrolleffects.js" crc="3865564493" ref="main"/>
+    <file name="webpro.js" crc="7309900" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="musewpdisclosure.js" crc="3941817638" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>music:phone>tour:phone>contact:phone>news:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:phone>index:tablet>index:index"/>
   </folder>
   <folder name="images">
     <file name="new god mobile title.png" crc="3989444263" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home" seo="true"/>
@@ -49,7 +49,7 @@
     <file name="vinyl2mobile-vinyl.png" crc="250497478" ref="phone>home:tablet>home" seo="true"/>
     <file name="vinyl2mobile-vinyl_2x.png" crc="250497478" ref="phone>home:tablet>home" seo="true"/>
     <file name="firework.jpg" crc="284297760" ref="phone>music:tablet>music" seo="true"/>
-    <file name="favicon.ico" crc="430433247" ref="main:index"/>
+    <file name="favicon.ico" crc="430433247" ref="main"/>
     <file name="blank.gif" crc="4208392903" ref="main"/>
     <file name="fireworkheader.png" crc="475764330" ref="main"/>
     <file name="vinyl-vinyl.png" crc="80775275" ref="main"/>
@@ -84,11 +84,11 @@
     <file name="u9835-4.png" crc="22442732" ref="phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="u9835-4_2x.png" crc="4282318804" ref="phone>music:phone>tour:phone>contact:phone>news:phone>home"/>
     <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_.png" crc="4237338661" ref="phone>home:main"/>
     <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_2.png" crc="4139104747" ref="phone>home:main"/>
     <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
-    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>home"/>
+    <file name="pasted svg 53x65_poster_3.png" crc="381935482" ref="phone>home:main"/>
     <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:tablet>music"/>
     <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music"/>
     <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:tablet>music"/>
@@ -140,37 +140,39 @@
     <file name="u12179-4.png" crc="4123814990" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="u12179-4_2x.png" crc="3982250010" ref="phone>home:phone>music:phone>tour:phone>contact:phone>news"/>
     <file name="pasted svg 450495x64.svg" crc="399399970" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 450495x64_poster_.png" crc="516923665" ref="phone>index:index"/>
+    <file name="pasted svg 450495x64_poster_.png" crc="516923665" ref="phone>index"/>
     <file name="newgodsingleart197x197.png" crc="3814277461" seo="true" ref="phone>index"/>
     <file name="newgodsingleart197x197_2x.png" crc="4133277680" seo="true" ref="phone>index"/>
     <file name="pasted svg 639987x51.svg" crc="4076252857" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 639987x51_poster_.png" crc="4166940960" ref="phone>index:index"/>
+    <file name="pasted svg 639987x51_poster_.png" crc="4166940960" ref="phone>index"/>
     <file name="pasted svg 584297x31.svg" crc="294252873" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 584297x31_poster_.png" crc="3849630213" ref="phone>index:index"/>
+    <file name="pasted svg 584297x31_poster_.png" crc="3849630213" ref="phone>index"/>
     <file name="pasted svg 338516x31.svg" crc="359653012" ref="phone>index:tablet>index:index"/>
-    <file name="pasted svg 338516x31_poster_.png" crc="522130835" ref="phone>index:index"/>
+    <file name="pasted svg 338516x31_poster_.png" crc="522130835" ref="phone>index"/>
     <file name="u12126-4.png" crc="4123814990" ref="tablet>home:tablet>news:tablet>tour:tablet>music:tablet>contact"/>
     <file name="u12126-4_2x.png" crc="3982250010" ref="tablet>home:tablet>news:tablet>tour:tablet>music:tablet>contact"/>
     <file name="newgodsingleart.png" crc="4143019344" seo="true" ref="tablet>index:index"/>
     <file name="newgodsingleart_2x.png" crc="3872210237" seo="true" ref="tablet>index:index"/>
+    <file name="tour 2015 poster.jpg" crc="44649494" seo="true" ref="main"/>
+    <file name="tour 2015 poster_2x.jpg" crc="308513774" seo="true" ref="main"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3936270775" ref="phone>music:phone>contact:phone>tour:phone>news:phone>home"/>
-      <file name="music.css" crc="155773291" ref="phone>music"/>
+      <file name="master_a-master.css" crc="207280426" ref="phone>music:phone>contact:phone>tour:phone>news:phone>home"/>
+      <file name="music.css" crc="4106071768" ref="phone>music"/>
       <file name="contact.css" crc="4035734677" ref="phone>contact"/>
-      <file name="index.css" crc="3981482968" ref="phone>index"/>
+      <file name="index.css" crc="54434421" ref="phone>index"/>
       <file name="tour.css" crc="208172009" ref="phone>tour"/>
       <file name="news.css" crc="37326809" ref="phone>news"/>
       <file name="home.css" crc="32333777" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="3823197885" mt="1437513274400" redirect="true" seo="true"/>
-    <file name="music.html" crc="3765087309" mt="1437510438003" redirect="true" seo="true"/>
-    <file name="tour.html" crc="3849436976" mt="1437510438003" redirect="true" seo="true"/>
-    <file name="contact.html" crc="248067398" mt="1437510438003" redirect="true" seo="true"/>
-    <file name="news.html" crc="3912826495" mt="1437510438003" redirect="true" seo="true"/>
-    <file name="home.html" crc="385448267" seo="true" mt="1437510466354" redirect="true"/>
+    <file name="index.html" crc="371438" mt="1437513274400" redirect="true" seo="true"/>
+    <file name="music.html" crc="4167939733" mt="1437510438003" redirect="true" seo="true"/>
+    <file name="tour.html" crc="116274544" mt="1437510438003" redirect="true" seo="true"/>
+    <file name="contact.html" crc="238033140" mt="1437510438003" redirect="true" seo="true"/>
+    <file name="news.html" crc="3764646695" mt="1437510438003" redirect="true" seo="true"/>
+    <file name="home.html" crc="4030423754" seo="true" mt="1437510466354" redirect="true"/>
   </folder>
-  <file name="index.html" crc="531012901" mt="1437513122968" redirect="true" seo="true"/>
-  <file name="main.html" crc="3968901841" seo="true" mt="1437509931252" redirect="true"/>
+  <file name="index.html" crc="187150727" mt="1437513122968" redirect="true" seo="true"/>
+  <file name="main.html" crc="4198056501" seo="true" mt="1437883585412" redirect="true"/>
 </manifest>
