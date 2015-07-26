@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1437884285001" domain="www.new-god.com">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1437884348506" domain="www.new-god.com">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4155744548" ref="tablet>contact:tablet>music:tablet>news:tablet>tour:tablet>home"/>
@@ -24,7 +24,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3937198647"/>
     <file name="index.css" crc="3848466684" ref="index"/>
-    <file name="main.css" crc="179343943" ref="main"/>
+    <file name="main.css" crc="17427296" ref="main"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4183747535" ref="phone>index:phone>music:phone>tour:phone>contact:index:phone>news:tablet>index:tablet>news:tablet>tour:tablet>music:tablet>contact:phone>home:tablet>home:main"/>
@@ -174,5 +174,5 @@
     <file name="home.html" crc="4030423754" seo="true" mt="1437510466354" redirect="true"/>
   </folder>
   <file name="index.html" crc="187150727" mt="1437513122968" redirect="true" seo="true"/>
-  <file name="main.html" crc="4162139473" seo="true" mt="1437884273933" redirect="true"/>
+  <file name="main.html" crc="4162139473" seo="true" mt="1437884340581" redirect="true"/>
 </manifest>
