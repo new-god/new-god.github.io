@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1455472222846" domain="www.new-god.com">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1455473055390" domain="www.new-god.com">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="446564964" ref="tablet>contact:tablet>music:tablet>news:tablet>tour:tablet>index"/>
@@ -11,7 +11,7 @@
     <file name="index.html" crc="425164120" mt="1440953603007" redirect="true" seo="true"/>
     <file name="news.html" crc="3932760760" mt="1440953595886" redirect="true" seo="true"/>
     <file name="tour.html" crc="414369363" mt="1440953595886" redirect="true" seo="true"/>
-    <file name="music.html" crc="60303980" mt="1440953595886" redirect="true" seo="true"/>
+    <file name="music.html" crc="479226479" mt="1455472931416" redirect="true" seo="true"/>
     <file name="contact.html" crc="259689514" mt="1440953595886" redirect="true" seo="true"/>
   </folder>
   <folder name="fonts">
@@ -81,11 +81,11 @@
     <file name="u9835-4.png" crc="22442732" ref="phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="u9835-4_2x.png" crc="4282318804" ref="phone>music:phone>tour:phone>contact:phone>news:phone>index"/>
     <file name="pasted svg 53x65.svg" crc="480805334" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:index:phone>index:tablet>index"/>
-    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_.png" crc="4084980778" ref="phone>index:phone>music"/>
     <file name="pasted svg 53x652.svg" crc="4181395900" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:index:phone>index:tablet>index"/>
-    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_2.png" crc="3942383794" ref="phone>index:phone>music"/>
     <file name="pasted svg 53x653.svg" crc="4252045015" ref="phone>music:phone>tour:phone>contact:tablet>tour:tablet>music:tablet>contact:index:phone>index:tablet>index"/>
-    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>index"/>
+    <file name="pasted svg 53x65_poster_3.png" crc="216441776" ref="phone>index:phone>music"/>
     <file name="pasted svg 47556x55.svg" crc="3829116522" ref="phone>music:tablet>music"/>
     <file name="pasted svg 47556x55_poster_.png" crc="4227684353" ref="phone>music"/>
     <file name="pasted svg 36797x33.svg" crc="4105022571" ref="phone>music:tablet>music"/>
@@ -147,10 +147,10 @@
       <file name="news.css" crc="63065411" ref="phone>news"/>
     </folder>
     <file name="index.html" crc="280142676" mt="1440953603008" redirect="true" seo="true"/>
-    <file name="music.html" crc="224191641" mt="1440953603005" redirect="true" seo="true"/>
+    <file name="music.html" crc="240955337" mt="1455473040246" redirect="true" seo="true"/>
     <file name="tour.html" crc="43652443" mt="1440953603005" redirect="true" seo="true"/>
     <file name="contact.html" crc="249781681" mt="1440953603005" redirect="true" seo="true"/>
     <file name="news.html" crc="219135557" mt="1440953603005" redirect="true" seo="true"/>
   </folder>
-  <file name="index.html" crc="57288649" mt="1455470764656" redirect="true" seo="true"/>
+  <file name="index.html" crc="532368844" mt="1455473029492" redirect="true" seo="true"/>
 </manifest>
