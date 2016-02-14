@@ -153,12 +153,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.Mobile a,.Dark a,.Desktop a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Desktop a:link
 {
 	color: #383838;
@@ -180,6 +174,30 @@ a,.Mobile a,.Dark a,.Desktop a
 .Mobile a:active,.Dark a:active,.Desktop a:active
 {
 	color: #E8D386;
+	text-decoration: underline;
+}
+
+.Yellow-K a:link
+{
+	color: #484848;
+	text-decoration: none;
+}
+
+.Yellow-K a:visited
+{
+	color: #484848;
+	text-decoration: none;
+}
+
+.Yellow-K a:hover
+{
+	color: #C1A314;
+	text-decoration: underline;
+}
+
+.Yellow-K a:active
+{
+	color: #EAC516;
 	text-decoration: underline;
 }
 
