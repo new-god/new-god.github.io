@@ -4,33 +4,13 @@
 
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #20754D;
+	color: #00000E;
+	background-color: #06C0CF;
 }
 
-@-ms-viewport
+#muse_css_mq
 {
-	width: 670px;
-}
-
-@-webkit-viewport
-{
-	width: 670px;
-}
-
-@-o-viewport
-{
-	width: 670px;
-}
-
-@-moz-viewport
-{
-	width: 670px;
-}
-
-.html
-{
-	background-color: #FEFFD9;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -39,15 +19,10 @@
 	width: 670px;
 	min-height: 615.928082191781px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FEFFD9;
 	padding-bottom: 0px;
-}
-
-#page_position_content
-{
-	width: 0.01px;
 }
 
 #u9782
@@ -81,12 +56,14 @@
 {
 	z-index: 9;
 	width: 670px;
+	position: relative;
 	margin-right: -10000px;
 }
 
-@viewport,#u9811
+#u9811
 {
 	width: 670px;
+	position: relative;
 }
 
 #u9814
@@ -94,6 +71,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -102,6 +80,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -110,6 +89,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -118,11 +98,13 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
 #u9816-4,#u10981-4,#u9822-4,#u9827-4
 {
+	position: relative;
 	margin-right: -10000px;
 	top: 7px;
 	left: 35px;
@@ -132,6 +114,7 @@
 {
 	width: 670px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u9833
@@ -139,6 +122,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 16px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -157,9 +141,20 @@
 
 #u9835-4
 {
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 35px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #accordionu9781,#accordionu9781-bw
@@ -176,40 +171,58 @@
 	position: relative;
 }
 
-#pu10460
+#pu12926
 {
 	width: 0.01px;
 	margin-left: 181px;
 	margin-top: -4px;
 }
 
-#u10460
+#u12926
 {
 	z-index: 61;
-	overflow: hidden;
-	position: relative;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
-#u10475
+#u10460
 {
-	z-index: 63;
-	overflow: hidden;
-	position: relative;
+	z-index: 62;
+	display: block;
+}
+
+#u12980
+{
+	z-index: 65;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 124px;
 }
 
-#u10470
+#u10475
 {
-	z-index: 62;
-	overflow: hidden;
-	position: relative;
+	z-index: 66;
+	display: block;
+}
+
+#u12953
+{
+	z-index: 63;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 249px;
+}
+
+#u10470
+{
+	z-index: 64;
+	display: block;
 }
 
 #pu7874-6
@@ -281,7 +294,7 @@
 	z-index: 58;
 	width: 513px;
 	min-height: 319px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 78px;
@@ -294,7 +307,7 @@
 	z-index: 52;
 	width: 513px;
 	min-height: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 79px;
@@ -307,7 +320,7 @@
 	z-index: 57;
 	width: 513px;
 	min-height: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 79px;
@@ -328,13 +341,9 @@
 	min-height: 42px;
 }
 
-@font-face
+.html
 {
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
+	background-color: #FEFFD9;
 }
 
 body
@@ -343,8 +352,37 @@ body
 	min-width: 670px;
 }
 
-#page .verticalspacer
+@-ms-viewport
 {
-	clear: both;
+	width: 670px;
+}
+
+@-webkit-viewport
+{
+	width: 670px;
+}
+
+@-o-viewport
+{
+	width: 670px;
+}
+
+@-moz-viewport
+{
+	width: 670px;
+}
+
+@viewport
+{
+	width: 670px;
+}
+
+@font-face
+{
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 

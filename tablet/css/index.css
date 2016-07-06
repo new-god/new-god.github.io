@@ -4,38 +4,13 @@
 
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #841871;
+	color: #0000E1;
+	background-color: #FF6B18;
 }
 
-@-ms-viewport
+#muse_css_mq
 {
-	width: 768px;
-}
-
-@-webkit-viewport
-{
-	width: 768px;
-}
-
-@-o-viewport
-{
-	width: 768px;
-}
-
-@-moz-viewport
-{
-	width: 768px;
-}
-
-@viewport
-{
-	width: 768px;
-}
-
-.html
-{
-	background-color: #FEFFD9;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -44,7 +19,7 @@
 	width: 768px;
 	min-height: 1024px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FEFFD9;
 }
@@ -80,12 +55,14 @@
 {
 	z-index: 9;
 	width: 670px;
+	position: relative;
 	margin-right: -10000px;
 }
 
 #u11798
 {
 	width: 670px;
+	position: relative;
 }
 
 #u11799
@@ -93,6 +70,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -101,6 +79,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -109,6 +88,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -117,11 +97,13 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 15px;
+	position: relative;
 	margin-right: -10000px;
 }
 
 #u11802-4,#u11765-4,#u11774-4,#u11786-4
 {
+	position: relative;
 	margin-right: -10000px;
 	top: 7px;
 	left: 35px;
@@ -131,6 +113,7 @@
 {
 	width: 670px;
 	margin-top: 2px;
+	position: relative;
 }
 
 #u11792
@@ -138,6 +121,7 @@
 	width: 670px;
 	min-height: 37px;
 	padding-bottom: 16px;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -156,9 +140,20 @@
 
 #u11795-4
 {
+	position: relative;
 	margin-right: -10000px;
 	top: 8px;
 	left: 35px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #accordionu11758,#accordionu11758-bw
@@ -177,40 +172,58 @@
 	position: relative;
 }
 
-#pu11886
+#pu12941
 {
 	width: 0.01px;
 	margin-left: 230px;
 	margin-top: -4px;
 }
 
-#u11886
+#u12941
 {
 	z-index: 61;
-	overflow: hidden;
-	position: relative;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
-#u11890
+#u11886
 {
-	z-index: 63;
-	overflow: hidden;
-	position: relative;
+	z-index: 62;
+	display: block;
+}
+
+#u12995
+{
+	z-index: 65;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 124px;
 }
 
-#u11888
+#u11890
 {
-	z-index: 62;
-	overflow: hidden;
-	position: relative;
+	z-index: 66;
+	display: block;
+}
+
+#u12968
+{
+	z-index: 63;
 	width: 53px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 	left: 249px;
+}
+
+#u11888
+{
+	z-index: 64;
+	display: block;
 }
 
 #pu11869-6
@@ -283,7 +296,7 @@
 	z-index: 58;
 	width: 513px;
 	min-height: 319px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 127px;
@@ -296,7 +309,7 @@
 	z-index: 52;
 	width: 513px;
 	min-height: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 128px;
@@ -309,7 +322,7 @@
 	z-index: 57;
 	width: 513px;
 	min-height: 320px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 128px;
@@ -331,13 +344,9 @@
 	margin-top: 19px;
 }
 
-@font-face
+.html
 {
-	font-family: '__websocialmenus_5';
-	src: url('../../fonts/websocialmenus.eot');
-	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
+	background-color: #FEFFD9;
 }
 
 body
@@ -346,8 +355,37 @@ body
 	min-width: 768px;
 }
 
-#page .verticalspacer
+@-ms-viewport
 {
-	clear: both;
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+@font-face
+{
+	font-family: '__websocialmenus_5';
+	src: url('../../fonts/websocialmenus.eot');
+	src: local('☺'), url('../../fonts/websocialmenus.woff') format('woff'), url('../../fonts/websocialmenus.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 

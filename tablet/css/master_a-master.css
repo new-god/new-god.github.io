@@ -1,18 +1,6 @@
-#accordionu11758
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u11759
-{
-	background-color: transparent;
-}
-
 #u11760-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FEFFD9;
 	color: #000000;
@@ -30,58 +18,46 @@
 
 #u11761
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FEFFD9;
 }
 
-#menuu11762
+#accordionu11758,#menuu11762
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u11799
 {
 	background-color: #F8AB98;
-	position: relative;
 }
 
 #u11764
 {
 	background-color: #E8D386;
-	position: relative;
 }
 
 #u11771
 {
 	background-color: #80BDC5;
-	position: relative;
 }
 
 #u11785
 {
 	background-color: #9B8FAF;
-	position: relative;
 }
 
-#u11798,#u11763,#u11770,#u11784,#u11791
+#u11759,#u11798,#u11763,#u11770,#u11784,#u11791
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u11792
 {
 	background-color: #00CE3A;
-	position: relative;
-}
-
-#u11802-4,#u11765-4,#u11774-4,#u11786-4,#u11795-4
-{
-	position: relative;
 }
 
 #u11802-4_clip,#u11765-4_clip,#u11774-4_clip,#u11786-4_clip,#u11795-4_clip
@@ -105,4 +81,5 @@
 	background-color: transparent;
 	text-align: center;
 }
+
 
